@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta charset="UTF-8">
+    <title>正在加载..</title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection">
+
+    <link rel="stylesheet" href="//mimg.127.net/hxm/dashi-home/p/20151107/style/css/dlpro-1b70669fa2.css">
+</head>
+<body>
+    <!--<div class="g-doc">
+        <img class="m-pic" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/wap/android-dl-pic_1-0362487f93.png" alt="邮箱大师下载">
+        <div class="w-txt-assist">已经开始下载邮箱大师</div>
+        <div class="w-txt-emp">下载完成后请记得安装哦</div>
+    </div>-->
+
+    <script type="text/javascript">
+    function getQueryString(e){
+        var t=new RegExp("(^|&)"+e+"=([^&]*)(&|$)","i");
+        var n=window.location.search.substr(1).match(t);
+        if(n!=null){
+            return unescape(n[2]);
+        }
+        return null
+    };
+    function generateUuid(){
+        var uuid = getCookie( 'mail_client_uuid' );
+        if( !uuid ) {
+            uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+                var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
+                return v.toString(16);
+            });
+            setCookie( 'mail_client_uuid', uuid, 1000 * 60 * 60 * 24, '/', '.mail.163.com' );
+        }
+        return uuid;
+    };
+
+    function setCookie( key, value, expire, path, domain ){
+        var expires = "";
+
+        if( expire ) {
+            var date = new Date();
+            date.setTime( date.getTime() + expire );
+            expires = "; expires=" + date.toGMTString();
+        } else {
+            expires = "";
+        }
+
+        document.cookie = key + "=" + value + expires + "; path=" + (path || "/") + ( domain ? ("; domain=" + domain) : "");
+    };
+
+    function getCookie( key ){
+        var pluses = /\+/g;
+        function decode(s) {
+            return s.replace(pluses, ' ');
+        }
+
+        var cookies = document.cookie.split('; ');
+        for (var i = 0, l = cookies.length; i < l; i++) {
+            var parts = cookies[i].split('=');
+            if (decode(parts.shift()) === key) {
+                var cookie = decode(parts.join('='));
+                return cookie;
+            }
+        }
+
+        return null;
+    };
+
+    var rawsource = getQueryString( 'from' ) || "";
+    var source = getQueryString( 'from' ) || "";
+    var device = getQueryString( 'device' ) || "";
+
+    if( source && source.match( /^mail\d+$/ ) ) {
+        var numStr = source.substr( 4, source.length );
+        var num = window.parseInt( numStr, 10 );
+        if ( !window.isNaN( num ) ) {
+            source = "ds" + num;
+        } else {
+            source = "";
+        }
+    } else {
+        source = "";
+    }
+
+    var isAndroid, isIphone;
+    if( device ) {
+        isAndroid = device == 'android';
+        isIphone = device == 'iphone';
+    } else {
+        isAndroid = navigator.userAgent.match( /android/i );
+        isIphone = navigator.userAgent.match( /iphone|ipad|itouch|ipod/i );
+    }
+
+    var isWechat = navigator.userAgent.match( /micromessenger/i );
+
+    var uuid = generateUuid();
+    // 安卓 Android普通访问，跳转至u.163.com/androidds
+    // Android版微信，跳转至mail.163.com/android.html
+    if( isAndroid ) {
+        // 二维码的
+        if( isWechat ) {
+            /*if (rawsource === 'mail5') {
+                location.href = 'http://a.app.qq.com/o/simple.jsp?pkgname=com.netease.mail';
+            } else {
+                location.href = 'http://mail.163.com/dashi/android.html?from=dl&source=' + rawsource + '&d=wechat';
+            }*/
+            /*location.href = 'http://mail.163.com/dashi/android.html?from=dl&source=' + rawsource + '&d=wechat';*/
+            location.href = 'http://a.app.qq.com/o/simple.jsp?pkgname=com.netease.mail';
+        } else {
+            if ( !source ) {
+                //没有指定来源
+                location.href = 'http://u.163.com/androidds?uuid=' + uuid;
+            } else if (source === "ds88"){
+                location.href = 'http://mail.163.com/dashi/android.html?from=mail88'
+            }else{
+                //正常浏览器打开 + 有来源
+                location.href = 'http://u.163.com/android' + source + '?uuid=' + uuid;
+            }
+        }
+    }  else if ( isIphone ) {
+        // 带参数qr=true，表明这个是扫码访问
+        var isQrcode = getQueryString('qr') == 'true';
+
+        /*if(isWechat && !isQrcode)*/
+        if(isWechat){
+            // iOS版微信，非扫描，跳转至mail.163.com/dashi/ios.html
+            if(num==77) location.href = 'http://mail.163.com/dashi/ios.html?from=dl&source=' + rawsource + '&d=wechat';
+            else location.href='http://a.app.qq.com/o/simple.jsp?pkgname=com.netease.mail&g_f=991653';
+        } else {
+            //没有指定来源
+            if( !source ) {
+                window.setTimeout(function(){
+                    // location.href = 'http://mail.163.com/ios/wap.html?from=dl';
+                    location.href = 'http://u.163.com/iosds?uuid=' + uuid;
+                }, 500);
+            }
+            //其他情况。
+            else {
+                window.setTimeout(function(){
+                    location.href = 'http://u.163.com/ios' + source + '?uuid=' + uuid;
+                }, 500);
+            }
+        }
+    } else {
+        // PC等其它平台
+        var id = source.match( /^ds(\d+)$/ );
+        
+        var jumpToUrl = 'http://mail.163.com/dashi/';
+
+        if( id ) {
+            //location.href = 'http://u.163.com/dshp' + id[1];
+            jumpToUrl += '?from=mail' + id[1] + '&gotodownload=1';
+        } else {
+            jumpToUrl += '?gotodownload=1';
+        }
+        location.href = jumpToUrl;
+    }
+
+    </script>
+</body>
+</html>

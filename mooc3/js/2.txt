@@ -1,0 +1,585 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0;" name="viewport"><meta name="format-detection" content="telephone=no"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta name="baidu-site-verification" content="NnOtRIBkIp"><meta name="keywords" content="网易邮箱超级会员,网易超级会员,网易邮箱会员,网易会员,邮箱会员,会员特权,会员"><meta name="description" content="网易超级会员是网易20周年推出的超级特权服务，包括专属客服、纯净邮箱、误删恢复、公正邮等数十项顶级权益，现在开通就可抢150元直减券。20年品质服务，以匠心，致创新，网聚特权,给你所要。"><title>网易邮箱超级会员—网聚特权，给你所要</title><link rel="stylesheet" type="text/css" href="static/css/reset.css"><link rel="stylesheet" type="text/css" href="static/css/style.css"><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="app/pay" src="app/pay.js?v=20170329"></script><style type="text/css">#YSF-BTN-HOLDER{position: fixed;max-width:30px;max-height:120px;right: 30px; bottom: 24px; cursor: pointer; overflow: visible; filter: alpha(opacity=100);opacity:1;z-index: 9990} #YSF-BTN-HOLDER:hover{filter: alpha(opacity=95);opacity:.95} #YSF-BTN-HOLDER img{ display: block;overflow: hidden; } #YSF-BTN-CIRCLE{display: none;position: absolute;right: -5px;top: -6px;width: auto;min-width: 12px;height: 20px;padding: 0 4px;background-color: #f00;font-size: 12px;line-height: 20px;color: #fff;text-align: center;white-space: nowrap;font-family: sans-serif;border-radius: 10px;z-index:1;} #YSF-BTN-BUBBLE{display: none;position: absolute;left: -274px;bottom:-15px;width: 278px;height: 80px;box-sizing: border-box;padding: 14px 22px;filter: alpha(opacity=100);opacity:1;background: url(https://qiyukf.com/sdk//res/img/sdk/bg_floatMsg2x.png) no-repeat;background:url(https://qiyukf.com/sdk//res/img/sdk/bg_floatMsg.png)9; background-size: 278px 80px; z-index: 1;} #YSF-BTN-HOLDER.layer-6{bottom:0;} #YSF-BTN-HOLDER.layer-6 #YSF-BTN-BUBBLE{bottom:-6px;} #YSF-BTN-BUBBLE:hover{filter: alpha(opacity=95);opacity:.95} #YSF-BTN-CONTENT{height:45px;padding: 0;white-space: normal;word-break: break-all;text-align: left;font-size: 14px;line-height: 1.6;color: #222;overflow: hidden;z-index: 0;} #YSF-BTN-ARROW{ display: none; } #YSF-BTN-CLOSE{position: absolute; width:15px; height:15px;right: 4px;top: -3px; filter: alpha(opacity=90); opacity:.9; cursor: pointer; background: url(https://qiyukf.com/sdk//res/img/sdk/btn-close.png) no-repeat;z-index: 1} #YSF-BTN-CLOSE:hover{filter: alpha(opacity=100); opacity: 1;} #YSF-PANEL-CORPINFO.ysf-chat-layeropen{ width: 511px; height: 470px; box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);} #YSF-PANEL-CORPINFO{ position: fixed; bottom: 0px; right: 20px; width: 0; height: 0; z-index: 99999; } #YSF-PANEL-INFO.ysf-chat-layeropen{ width: 311px; height: 470px; filter: alpha(opacity=100);opacity:1; box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);} #YSF-PANEL-INFO{ position: fixed; bottom: 0px; right: 20px; width: 0px; height: 0px; filter: alpha(opacity=0);opacity:0;z-index: 99999;} #YSF-PANEL-INFO .u-btn{background-color: #57C7D4} #YSF-CUSTOM-ENTRY{background-color: #F96868;} #YSF-CUSTOM-ENTRY-0{position: relative;width:auto;background-color: #57C7D4;box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.25);} #YSF-CUSTOM-ENTRY-1{position: relative;width:auto;background-color: #57C7D4;border-radius: 14px; box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.25);} #YSF-CUSTOM-ENTRY-2{position: relative;width:auto;background-color: #57C7D4;border-radius: 0;box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.25);} #YSF-CUSTOM-ENTRY-3{position: relative;width:auto;background-color: #57C7D4;border-radius: 50%;box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.25);} #YSF-CUSTOM-ENTRY-4{position: relative;width:auto;background-color: #57C7D4;border-radius: 50%;box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.25);} #YSF-CUSTOM-ENTRY-5{position: relative;width:auto;background-color: #57C7D4;border-radius: 5px;box-shadow: 0px 6px 10px 0px rgba(0,0,0,0.25);} #YSF-CUSTOM-ENTRY-6{position: relative;width:auto;background-color: #57C7D4;border-radius:5px;border-bottom-left-radius: 0;border-bottom-right-radius: 0;} #YSF-CUSTOM-ENTRY-0 img{max-width: 300px;height:auto;} #YSF-CUSTOM-ENTRY-1 img{width:28px;height:auto;} #YSF-CUSTOM-ENTRY-2 img{width:58px;height:auto;} #YSF-CUSTOM-ENTRY-3 img{width:60px;height:auto;} #YSF-CUSTOM-ENTRY-4 img{width:60px;height:auto;} #YSF-CUSTOM-ENTRY-5 img{width:60px;height:auto;} #YSF-CUSTOM-ENTRY-6 img{width:115px;height:auto;} #YSF-IFRAME-LAYER{ border:0; outline:none; } .ysf-online-invite-wrap{z-index:10001;position:fixed;_position:absolute;top:50%;left:50%;} .ysf-online-invite{position:relative;top:-50%;left:-50%;cursor:pointer;} .ysf-online-invite img{display:block;width:250px;} .ysf-online-invite .ysf-online-invite-img{width:100%;height:100%} .ysf-online-invite .text{position:absolute;top:-11px;left:0;right:0;overflow:hidden;margin: 36px 20px 0 67px;line-height:140%;color:#526069;font-size:14px;font-family:"Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体";text-align:left;white-space:normal;word-wrap:break-word;} .ysf-online-invite .close{position:absolute;top:-6px;right:-6px;width:32px;height:32px;background:url(https://qiyukf.com/sdk/res/img/invite-close.png) no-repeat;cursor:pointer;} .ysf-online-invite .close.custom{top:-16px;right:-16px;}</style><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="text" src="text.js?v=20170329"></script></head><body><script src="https://hm.baidu.com/hm.js?29fd8d9b4c4912eb5e8503cf4d931e2b"></script><script type="text/javascript">window.shareConfig={img:"https://v.mail.163.com/static/images/wechat.jpg",wbpic:"",url:"https://v.mail.163.com/",desc:"尊享专属客服、误删恢复、帐号（非游戏）加急修复等16+项顶级特权",title:"网易超级会员-限时特惠",timeline_title:"网易超级会员-限时特惠",wContent:"尊享专属客服、误删恢复、帐号（非游戏）加急修复等16+项顶级特权",callback:function(t,i){}};</script><script type="text/javascript">function getHash(e){var a={},e=e?e:location.hash;if(!e)return{};for(var t=location.hash.slice(1).split("&"),i=0;i<t.length;i++){var o=t[i],r=o.split("="),l=r[0].replace(/script|%22|%3E|%3C|'|"|>|<|\\/g,"_"),p=decodeURIComponent(r[1].replace(/script|%22|%3E|%3C|'|"|>|<|\\/g,"_"));if(l in a){if(/array/i.test(Object.prototype.toString.call(a[l])));else{var n=a[l];a[l]=[],a[l].push(n)}a[l].push(p)}else a[l]=p}return a}var page=getHash();window.screen.width<720&&("payS"==page.page?window.location.href="mobile.html#page=payS":window.location.href="mobile.html#page=wechat");</script><div class="J_wrapper"><div class="m-hd J_hd blue"><div class="u-hd f-cb"><div class="u-logo f-cb J_page" data-hash="page=member"><div class="logo"></div><div class="title">网易超级会员</div></div><ul class="u-tab J_tab"><li class="J_page" data-hash="page=member">首页</li><li class="J_page active" data-hash="page=limit">限时活动</li><li class="J_page" data-hash="page=vip">邮箱特权</li><li class="J_page" data-hash="page=butler">服务特权</li><li class="J_page" data-hash="page=ilife">生活特权</li><li class="J_page" data-hash="page=game">游戏特权</li><li class="J_page" data-hash="page=activity">活动特权</li></ul><div class="m-login f-cb"><div class="J_login u-button-s f-fl">登录</div> <div class="u-button-s f-fl compose J_member" data-type="top">  成为会员 </div></div></div></div><div class="m-ursLogin J_ursLogin"><div class="mask"></div><div id="urs-login-block"><div class="close J_closeLogin"></div></div></div> <div class="m-limit-wrapper u-wrapper">
+	<div class="u-area area1">
+		<div class="u-new-act">
+			<div class="u-price-text">到今天已有 <span class="red">12340</span> 人次中奖</div>
+			<div class="u-price-button J_Eleven">开抢</div>
+			<div class="u-price-num">
+				<div class="num">今日还剩 <span class="red">65</span> 个宝箱</div>
+				<div class="note">每天限量开宝箱，每个帐号限开1个</div>
+			</div>
+			<div class="u-price-person">
+				<div class="title">中奖直播</div>
+				<div class="u-slide">
+					<ul class="slide J_text" style="width: 22000px; left: -20px;">
+						<li>恭喜te**lv@163.com <span style="color:#f71515">获得邮箱会员3年服务期+150元严选直减券</span></li>
+						<li>恭喜la**hu@126.com <span style="color:#f71515">获得150元严选直减券+邮箱会员3年服务期</span></li>
+						<li>恭喜sc**na@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+150元严选直减券</span></li>
+						<li>恭喜co**on@163.com <span style="color:#f71515">获得邮箱会员3年服务期+严选104升纯PC拉杆箱</span></li>
+						<li>恭喜wi**55@163.com <span style="color:#f71515">获得邮箱会员3年服务期+严选美食大礼包</span></li>
+						<li>恭喜qp**lj@126.com <span style="color:#f71515">获得150元严选直减券+严选美食大礼包</span></li>
+						<li>恭喜qq**23@163.com <span style="color:#f71515">获得150元严选直减券+严选104升纯PC拉杆箱</span></li>
+						<li>恭喜er**ng@163.com <span style="color:#f71515">获得150元严选直减券+邮箱会员3年服务期</span></li>
+						<li>恭喜pg**78@163.com <span style="color:#f71515">获得邮箱会员3年服务期+150元严选直减券</span></li>
+						<li>恭喜vi**ng@163.com <span style="color:#f71515">获得150元严选直减券+严选美食大礼包</span></li>
+						<li>恭喜vi**ng@163.com <span style="color:#f71515">获得150元严选直减券+严选美食大礼包</span></li>
+						<li>恭喜sd**10@163.com <span style="color:#f71515">获得邮箱会员3年服务期+150元严选直减券</span></li>
+						<li>恭喜te**14@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+严选美食大礼包</span></li>
+						<li>恭喜qu**xi@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+邮箱会员3年服务期</span></li>
+						<li>恭喜vv**12@126.com <span style="color:#f71515">获得严选美食大礼包+邮箱会员3年服务期</span></li>
+						<li>恭喜bi**58@126.com <span style="color:#f71515">获得150元严选直减券+邮箱会员3年服务期</span></li>
+						<li>恭喜gz**cc@126.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+150元严选直减券</span></li>
+						<li>恭喜gy**21@163.com <span style="color:#f71515">获得150元严选直减券+邮箱会员3年服务期</span></li>
+						<li>恭喜er**ng@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+严选美食大礼包</span></li>
+						<li>恭喜zx**47@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+严选美食大礼包</span></li>
+						<li>恭喜q**t@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+150元严选直减券</span></li>
+						<li>恭喜da**11@126.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+邮箱会员3年服务期</span></li>
+						<li>恭喜zu**in@126.com <span style="color:#f71515">获得严选美食大礼包+严选104升纯PC拉杆箱</span></li>
+						<li>恭喜ao**a8@163.com <span style="color:#f71515">获得严选美食大礼包+邮箱会员3年服务期</span></li>
+						<li>恭喜ki**ny@126.com <span style="color:#f71515">获得150元严选直减券+邮箱会员3年服务期</span></li>
+						<li>恭喜yu**ou@163.com <span style="color:#f71515">获得严选美食大礼包+150元严选直减券</span></li>
+						<li>恭喜lu**en@163.com <span style="color:#f71515">获得150元严选直减券+严选104升纯PC拉杆箱</span></li>
+						<li>恭喜fa**88@126.com <span style="color:#f71515">获得严选美食大礼包+邮箱会员3年服务期</span></li>
+						<li>恭喜ui**ho@163.com <span style="color:#f71515">获得严选美食大礼包+150元严选直减券</span></li>
+						<li>恭喜ji**ex@126.com <span style="color:#f71515">获得严选美食大礼包+150元严选直减券</span></li>
+						<li>恭喜gz**cn@126.com <span style="color:#f71515">获得150元严选直减券+邮箱会员3年服务期</span></li>
+						<li>恭喜xi**78@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+邮箱会员3年服务期</span></li>
+						<li>恭喜q1**63@163.com <span style="color:#f71515">获得严选美食大礼包+邮箱会员3年服务期</span></li>
+						<li>恭喜mc**ei@163.com <span style="color:#f71515">获得严选美食大礼包+邮箱会员3年服务期</span></li>
+						<li>恭喜li**ei@163.com <span style="color:#f71515">获得邮箱会员3年服务期+严选美食大礼包</span></li>
+						<li>恭喜aa**83@163.com <span style="color:#f71515">获得邮箱会员3年服务期+严选104升纯PC拉杆箱</span></li>
+						<li>恭喜ab**70@163.com <span style="color:#f71515">获得严选美食大礼包+150元严选直减券</span></li>
+						<li>恭喜pe**ui@126.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+150元严选直减券</span></li>
+						<li>恭喜cq**23@163.com <span style="color:#f71515">获得严选美食大礼包+150元严选直减券</span></li>
+						<li>恭喜zh**24@163.com <span style="color:#f71515">获得严选美食大礼包+150元严选直减券</span></li>
+						<li>恭喜pg**63@126.com <span style="color:#f71515">获得150元严选直减券+邮箱会员3年服务期</span></li>
+						<li>恭喜te**zy@163.com <span style="color:#f71515">获得邮箱会员3年服务期+150元严选直减券</span></li>
+						<li>恭喜go**ld@163.com <span style="color:#f71515">获得邮箱会员3年服务期+严选美食大礼包</span></li>
+						<li>恭喜wo**-m@163.com <span style="color:#f71515">获得邮箱会员3年服务期+150元严选直减券</span></li>
+						<li>恭喜cy**21@126.com <span style="color:#f71515">获得邮箱会员3年服务期+150元严选直减券</span></li>
+						<li>恭喜gd**df@163.com <span style="color:#f71515">获得严选美食大礼包+150元严选直减券</span></li>
+						<li>恭喜in**ix@163.com <span style="color:#f71515">获得严选美食大礼包+邮箱会员3年服务期</span></li>
+						<li>恭喜ha**ei@163.com <span style="color:#f71515">获得邮箱会员3年服务期+严选美食大礼包</span></li>
+						<li>恭喜sx**qc@163.com <span style="color:#f71515">获得严选洗碗机+严选104升纯PC拉杆箱+iPhone X 256G</span></li>
+						<li>恭喜so**68@163.com <span style="color:#f71515">获得严选104升纯PC拉杆箱+严选洗碗机+iPhone X 256G+150元严选直减券</span></li>
+					</ul>
+				</div>
+				<div class="btn J_Eleven" data-type="open">我的奖品</div>
+			</div>
+			<div class="u-act-list f-cb">
+				<ul>
+					<li>
+						<div class="circle J_circle">
+							<span class="bold">恢复<br>已删邮件<br></span>
+							<span class="price">¥60/年</span>
+						</div>
+						<div class="add">恢复10天内彻底删除的邮件</div>
+					</li>
+					<li>
+						<div class="circle J_circle">
+							<span class="bold">延长附件<br>保存期<br></span>
+							<span class="price">¥60/年</span>
+						</div>
+						<div class="add">云附件保存期延长至50天</div>
+					</li>
+					<li>
+						<div class="circle J_circle">
+							<span class="big">公正邮<br></span>
+							<span class="price">¥240/240封</span>
+						</div>
+						<div class="add">邮件永存，成维权铁证</div>
+					</li>
+					<li>
+						<div class="circle J_circle">
+							<span class="bold">客服贵宾<br>专线<br></span>
+							<span class="price">¥50/年</span>
+						</div>
+						<div class="add">急速解决邮箱问题</div>
+					</li>
+					<li>
+						<div class="circle J_circle">
+							<span class="bold">纯净<br>无广告<br></span>
+							<span class="price">¥60/年</span>
+						</div>
+						<div class="add">动态皮肤，欢迎页无干扰</div>
+					</li>
+					<li>
+						<div class="circle J_circle">
+							<span class="bold">帐号修复<br>加急<br></span>
+							<span class="price">¥50/次</span>
+						</div>
+						<div class="add">免排队加急审核<br>仅限邮箱帐号，非游戏帐号</div>
+					</li>
+					<li>
+						<div class="circle J_circle">
+							<span class="big">活动特权<br></span>
+							<span class="price">¥60/次</span>
+						</div>
+						<div class="add">免费出席线下活动</div>
+					</li>
+					<li>
+						<div class="circle J_circle">
+							<span class="big">生活特权<br></span>
+							<span class="price">¥50/年</span>
+						</div>
+						<div class="add">超值购物专属优惠券</div>
+					</li>
+				</ul>
+			</div>
+			<div class="u-act-note">
+				1. 活动时间：<span style="color:#fef286;">2018-4-28</span>至<span style="color:#fef286;">2018-5-31</span>。<br>
+				2. 在活动期间内，首次开通网易超级会员，有机会获得开宝箱的机会，随机获得2-6件礼品；<br>
+				3. 严选￥150购物直减券（由1张70元+1张80元直减券组成）、严选洗碗机、严选美食大礼包券（由4张商品直减券和1张全场满减券组成）、严选104升纯PC拉杆箱，会以激活券码的方式发至参与活动的邮箱帐号；该商品券不能与严选官网其他活动同时叠加使用，不能购买特殊商品，包括但不限于暴雪系列、限时购、礼品卡、味央猪肉、黑胶唱片等。规则可参考：<a href="http://you.163.com/help#rule" target="_blank">http://you.163.com/help#rule</a><br>
+				4.网易邮箱超级会员3年服务期，只为参与活动的帐号开通，不可转赠；<br>
+				5. iPhone X为实物奖品，将在中奖后7个工作日内发出，奖品包邮仅限中国大陆地区，港澳台及海外地区邮费自理，截止至活动结束，如无填写收货地址视为弃奖，<a href="javascript:;" class="J_address">填写收货地址 &gt;&gt;</a><br>
+				6. 若手机邮箱帐号用户参与此活动，则为手机帐号对应的邮箱主帐号开通会员，若会员期间更换手机号，会员服务期仍保留在邮箱主帐号；<br>
+				7. 活动相关问题可咨询底部“售前咨询”。<br>
+			</div>
+		</div>
+	</div>
+	<!-- <div class="u-area area1">
+		<div class="u-act-wrap">
+			<div class="u-left-arrow J_act_new" data-type="pre"></div>
+			<div class="u-right-arrow J_act_new" data-type="next"></div>
+			<div class="u-img-wrap">
+			<ul class="J_act_animate">
+				<li>
+					<a href="http://you.163.com/item/detail?id=1149044&from=web_rk_vip_fchd_1" target="_blank"><img src="static/images/new-act1.png" style="padding-top:8px;"></a>
+				</li>
+				<li>
+					<a href="http://you.163.com/item/detail?id=1127005&from=web_rk_vip_fchd_2" target="_blank"><img src="static/images/new-act2.png" style="padding-top:8px;"></a>
+				</li>
+				<li>
+					<a href="http://you.163.com/item/detail?id=1006001" target="_blank"><img src="static/images/new-act3.png" style="padding-top:8px;"></a>
+				</li>
+				<li>
+					<a href="http://you.163.com/item/detail?id=1431003" target="_blank"><img src="static/images/new-act4.png" style="padding-top:8px;"></a>
+				</li>
+				<li>
+					<a href="http://you.163.com/item/detail?id=1281011&from=web_rk_vip_fchd_5" target="_blank"><img src="static/images/new-act5.png"></a>
+				</li>
+				<li>
+					<a href="http://you.163.com/item/detail?id=1149046" target="_blank"><img src="static/images/new-act6.png"></a>
+				</li>
+				<li>
+					<a href="http://you.163.com/item/detail?id=1154017&from=web_rk_vip_fchd_7" target="_blank"><img src="static/images/new-act7.png"></a>
+				</li>
+				<li>
+					<a href="http://you.163.com/?from=web_rk_vip_fchd_8" target="_blank"><img src="static/images/new-act8.png"></a>
+				</li>
+			</ul>
+			</div>
+		</div>
+		<div class="m-eleven">
+			<div class="m-act-time J_time f-cb">
+				<span class="day time"></span>
+				<span class="hour time"></span>
+				<span class="minute time"></span>
+				<span class="second time"></span>
+			</div>
+			<div class="m-open-gift">
+				<a href="javascript:;" class="J_Eleven"><img src="static/images/u-btn-eleven.png"></a>
+			</div>
+			<div class="u-text">
+				<ul class="J_text">
+						<li>
+							<span class="f-fl">
+								te**lv@163.com
+								获得邮箱会员3年服务期+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								la**hu@126.com
+								获得150元严选直减券+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								sc**na@163.com
+								获得严选104升纯PC拉杆箱+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								co**on@163.com
+								获得邮箱会员3年服务期+严选104升纯PC拉杆箱
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								wi**55@163.com
+								获得邮箱会员3年服务期+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								qp**lj@126.com
+								获得150元严选直减券+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								qq**23@163.com
+								获得150元严选直减券+严选104升纯PC拉杆箱
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								er**ng@163.com
+								获得150元严选直减券+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								pg**78@163.com
+								获得邮箱会员3年服务期+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								vi**ng@163.com
+								获得150元严选直减券+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								vi**ng@163.com
+								获得150元严选直减券+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								sd**10@163.com
+								获得邮箱会员3年服务期+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								te**14@163.com
+								获得严选104升纯PC拉杆箱+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								qu**xi@163.com
+								获得严选104升纯PC拉杆箱+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								vv**12@126.com
+								获得严选美食大礼包+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								bi**58@126.com
+								获得150元严选直减券+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								gz**cc@126.com
+								获得严选104升纯PC拉杆箱+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								gy**21@163.com
+								获得150元严选直减券+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								er**ng@163.com
+								获得严选104升纯PC拉杆箱+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								zx**47@163.com
+								获得严选104升纯PC拉杆箱+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								q**t@163.com
+								获得严选104升纯PC拉杆箱+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								da**11@126.com
+								获得严选104升纯PC拉杆箱+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								zu**in@126.com
+								获得严选美食大礼包+严选104升纯PC拉杆箱
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								ao**a8@163.com
+								获得严选美食大礼包+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								ki**ny@126.com
+								获得150元严选直减券+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								yu**ou@163.com
+								获得严选美食大礼包+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								lu**en@163.com
+								获得150元严选直减券+严选104升纯PC拉杆箱
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								fa**88@126.com
+								获得严选美食大礼包+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								ui**ho@163.com
+								获得严选美食大礼包+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								ji**ex@126.com
+								获得严选美食大礼包+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								gz**cn@126.com
+								获得150元严选直减券+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								xi**78@163.com
+								获得严选104升纯PC拉杆箱+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								q1**63@163.com
+								获得严选美食大礼包+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								mc**ei@163.com
+								获得严选美食大礼包+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								li**ei@163.com
+								获得邮箱会员3年服务期+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								aa**83@163.com
+								获得邮箱会员3年服务期+严选104升纯PC拉杆箱
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								ab**70@163.com
+								获得严选美食大礼包+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								pe**ui@126.com
+								获得严选104升纯PC拉杆箱+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								cq**23@163.com
+								获得严选美食大礼包+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								zh**24@163.com
+								获得严选美食大礼包+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								pg**63@126.com
+								获得150元严选直减券+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								te**zy@163.com
+								获得邮箱会员3年服务期+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								go**ld@163.com
+								获得邮箱会员3年服务期+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								wo**-m@163.com
+								获得邮箱会员3年服务期+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								cy**21@126.com
+								获得邮箱会员3年服务期+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								gd**df@163.com
+								获得严选美食大礼包+150元严选直减券
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								in**ix@163.com
+								获得严选美食大礼包+邮箱会员3年服务期
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								ha**ei@163.com
+								获得邮箱会员3年服务期+严选美食大礼包
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								sx**qc@163.com
+								获得严选洗碗机+严选104升纯PC拉杆箱+iPhone X 256G
+							</span>
+						</li>
+						<li>
+							<span class="f-fl">
+								so**68@163.com
+								获得严选104升纯PC拉杆箱+严选洗碗机+iPhone X 256G+150元严选直减券
+							</span>
+						</li>
+				</ul>
+				<div class="m-review-gift J_Eleven" data-type="open">查看我的礼包</div>
+			</div>
+		</div>
+		<div class="u-btn J_member"></div>
+		<div class="u-member-animate animate1 slideInUp animated infinite"></div>
+		<div class="u-member-animate animate2 slideInUp animated infinite"></div>
+		<div class="u-member-animate animate3 slideInUp animated infinite"></div>
+		<div class="u-member-animate animate4 slideInUp animated infinite"></div>
+	</div>
+	<div class="u-area area2">
+		<div class="m-float red">
+			<div class="hd">超级会员特权</div>
+			<ul class="content">
+				<li class="on J_vipNav" data-num="0">无广告特权</li>
+				<li class="J_vipNav" data-num="1">邮件误删恢复</li>
+				<li class="J_vipNav" data-num="2">网易公正邮</li>
+				<li class="J_vipNav" data-num="3">邮箱私人助理</li>
+				<a href="index.html#page=member" target="_blank"><li>更多></li></a>
+			</ul>
+		</div>
+		<div class="m-bg-slider">
+			<ul class="J_vipSlider" data-cur="0">
+				<a href="index.html#page=vipDetail&amp;detailId=1" target="_blank"><li style="background: url(static/images/limit-2-1.jpg) no-repeat center center;">
+				</li></a>
+				<a href="index.html#page=vipDetail&amp;detailId=2" target="_blank"><li style="background: url(static/images/limit-2-2.jpg) no-repeat center center;">
+				</li></a>
+				<a href="index.html#page=vipDetail&amp;detailId=0" target="_blank"><li style="background: url(static/images/limit-2-3.jpg) no-repeat center center;">
+				</li></a>
+				<a href="index.html#page=butlerDetail&amp;detailId=2" target="_blank"><li style="background: url(static/images/limit-2-4.jpg) no-repeat center center;">
+				</li></a>
+			</ul>
+		</div>
+	</div>
+	<div class="u-area area3">
+		<div class="m-float blue">
+			<div class="hd">网易严选好物</div>
+			<ul class="content">
+				<li class="on J_youNav" data-num="0">居家</li>
+				<li class="J_youNav" data-num="1">厨房</li>
+				<li class="J_youNav" data-num="2">服装</li>
+				<li class="J_youNav" data-num="3">零食</li>
+				<a href="http://you.163.com/" target="_blank"><li>更多></li></a>
+			</ul>
+		</div>
+		<div class="m-bg-slider">
+			<ul class="J_youSlider" data-cur="0">
+				<a href="http:&#x2F;&#x2F;imgs.vip.163.com&#x2F;popularize&#x2F;spread&#x2F;redirect.m?url=http%3A%2F%2Fyou.163.com%2Fitem%2Flist%3FcategoryId%3D1005000&amp;id=1076" target="_blank"><li style="background: url(https:&#x2F;&#x2F;mimg.127.net&#x2F;p&#x2F;vip&#x2F;plat&#x2F;20170523&#x2F;1495531568008.jpg) no-repeat center center;">
+				</li></a>
+				<a href="http:&#x2F;&#x2F;imgs.vip.163.com&#x2F;popularize&#x2F;spread&#x2F;redirect.m?url=http%3A%2F%2Fyou.163.com%2Fitem%2Flist%3FcategoryId%3D1005001&amp;id=1077" target="_blank"><li style="background: url(https:&#x2F;&#x2F;mimg.127.net&#x2F;p&#x2F;vip&#x2F;plat&#x2F;20170523&#x2F;1495531618683.jpg) no-repeat center center;">
+				</li></a>
+				<a href="http:&#x2F;&#x2F;imgs.vip.163.com&#x2F;popularize&#x2F;spread&#x2F;redirect.m?url=http%3A%2F%2Fyou.163.com%2Fitem%2Flist%3FcategoryId%3D1010000&amp;id=1078" target="_blank"><li style="background: url(https:&#x2F;&#x2F;mimg.127.net&#x2F;p&#x2F;vip&#x2F;plat&#x2F;20170523&#x2F;1495531659977.jpg) no-repeat center center;">
+				</li></a>
+				<a href="http:&#x2F;&#x2F;imgs.vip.163.com&#x2F;popularize&#x2F;spread&#x2F;redirect.m?url=http%3A%2F%2Fyou.163.com%2Fitem%2Flist%3FcategoryId%3D1005002&amp;id=1079" target="_blank"><li style="background: url(https:&#x2F;&#x2F;mimg.127.net&#x2F;p&#x2F;vip&#x2F;plat&#x2F;20170523&#x2F;1495531710471.jpg) no-repeat center center;">
+				</li></a>
+			</ul>
+		</div>
+	</div>
+	<div class="u-area area4">
+		<ul class="u-eleven-apply">
+			<li class="J_Eleven ">
+				<div class="u-open-button">立即开通
+				</div>
+			</li>
+			<li class="J_Eleven ">
+				<div class="u-open-button" style="margin-left:60px;">立即开通</div>
+			</li>
+			<li class="J_Eleven ">
+				<div class="u-open-button">立即开通</div>
+			</li>
+			<li class="J_Eleven ">
+				<div class="u-open-button" style="margin-left:55px;">立即开通</div>
+			</li>
+			<li class="J_Eleven ">
+				<div class="u-open-button">立即开通</div>
+			</li>
+			<li class="J_Eleven ">
+				<div class="u-open-button">立即开通</div>
+			</li>
+		</ul>
+	</div> -->
+</div>
+<!-- <div class="g-ft2">
+	<div class="m-eleven-rule"></div>
+	<div class="m-eleven-content">
+		<span class="i-number one"></span>活动时间：11.1-11.30，活动期间内，开通/续费超级会员的邮箱帐号，只有1次拆礼包的机会，随机获得礼包中1-5件礼品；<br>
+		<span class="i-number two"></span>网易严选150元直减券为激活码形式，将发放至拆中礼包的邮箱帐号；请注意激活码有效期至2017.12.31，激活后3个月内使用，逾期失效；<br>
+		<span class="i-number three"></span>网易严选150元直减券由一张70元和一张80元直减券组成，为全场通用券，但不与网易严选其他优惠活动同享；暴雪系列、限时购、礼品卡、味央猪肉、黑胶唱片等特殊商品不可使用此券；<br>
+		<span class="i-number four"></span>如获得超级会员4年服务期，将自动续期；<br>
+		<span class="i-number five"></span>实物礼品20周年公仔、飞利浦空气净化器和iPhone 8 plus将在活动结束后，7个工作日内安排发货，如在活动结束前未填写收货地址，则视为放弃；<a href="javascript:;" class="J_address" style="color:#c13f3f;">填写收货地址>></a><br>
+		<span class="i-number six"></span>活动相关问题可咨询底部“售前咨询”，或发邮件至邮箱：188vip@vip.163.com咨询。<br>
+	</div>
+	<p class="note">活动规则:</p>
+	<p class="text">
+		1. 活动时间：2018-3-1至2018-3-31。<br>
+		2. 在活动期间内，开通/续费网易超级会员，即可获得￥150网易严选直减券。可用于抵扣在严选官网商品价格金额。如原价80元商品，可使用80元优惠券，80-80=0元（不包含邮费）。<br>
+		3. ￥150优惠券说明：由1张70元+1张80元直减券组成，以激活券码的方式发至参与活动的邮箱帐号，券码亦可赠送他人/其他帐号使用。券的激活有效期到2018-4-30，激活后30天内使用有效，逾期失效！<br>
+		4. 本券不能与严选官网其他活动同时叠加使用，不能购买特殊商品，包括但不限于暴雪系列、限时购、礼品卡、味央猪肉、黑胶唱片等。规则可参考：<a href="http://you.163.com/help#rule" target="_blank">http://you.163.com/help#rule</a><br>
+		5. 活动相关问题可咨询底部“售前咨询”。
+	</p>
+</div> -->
+ <div class="g-ft"><ul class="m-parten f-cb"><li><div class="logo i-crown"></div><div class="text">超级VIP</div></li><li><div class="logo i-play"></div><div class="text">游戏热爱者</div></li><li><div class="logo i-house"></div><div class="text">生活优选家</div></li></ul><div class="m-code"><div class="qrcode code-l"><img src="static/images/qrcode.jpg"><div class="text">微信公众号</div><div class="text">关注领会员礼</div></div><div class="u-text"><p>网易邮箱会员服务介绍</p>网易邮箱，20年品质服务，推出特权服务<br>我们是超级VIP，也是游戏热爱者，<br>更是生活优选家！商务合作：vipbd@188.com<div class="u-vip f-cb"><div class="u-vip-logo"></div><div class="u-mem-logo"></div><div class="text">网聚特权，给你所要<br>v.mail.163.com</div></div></div><div class="qrcode code-r"><img src="static/images/xiaowei.png" class="J_qiyu qiyu"><div class="text">售前咨询</div><div class="text">9:00-18:00</div></div></div><div class="m-flink"><a target="_blank" href="http://email.163.com/">网易免费邮</a>&nbsp;&nbsp; <a target="_blank" href="http://vipmail.163.com/">网易VIP邮</a>&nbsp;&nbsp; <a target="_blank" href="http://you.163.com/">网易严选</a>&nbsp;&nbsp; <a target="_blank" href="https://3c.163.com/">网易智造</a>&nbsp;&nbsp; <a target="_blank" href="http://qian.163.com/">网易•有钱</a><br><a target="_blank" href="http://corp.163.com/index_gb.html">关于网易</a>&nbsp;&nbsp; <a target="_blank" href="http://help.163.com/">客户服务</a>&nbsp;&nbsp; <a target="_blank" href="http://gb.corp.163.com/gb/legal.html">隐私政策</a>&nbsp;&nbsp;|&nbsp;&nbsp;网易公司版权所有 © 1997-2017</div></div><div class="m-slideBar"><div class="u-float red J_qiyu qiyu"><div class="i-msg i-icon"></div><div class="text">在线咨询</div></div></div><div class="m-toTOP J_toTop"><div class="i-toTop"></div></div></div><script src="https://qiyukf.com/script/53e2302d70bda67997c5ffc8056f7c3b.js" defer="defer" async=""></script><script type="text/javascript" src="https://webzj.reg.163.com/v1.0.1/message.js?201703"></script><script type="text/javascript">var _hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?29fd8d9b4c4912eb5e8503cf4d931e2b";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();</script><script src="require.js" charset="UTF-8"></script><script src="config.js" charset="UTF-8"></script><script>require(["app/pay"]);</script><div style="top: 0px; left: 0px; visibility: hidden; position: absolute; width: 1px; height: 1px;"><iframe style="height:0px; width:0px;" src="https://qiyukf.com/sdk/res/delegate.html?1526199051727"></iframe></div><div class="layer-1" id="YSF-BTN-HOLDER" style="display: none;"><div id="YSF-CUSTOM-ENTRY-1"><img src="https://qiyukf.com/sdk/res/kefu/custom/1.png"></div><span id="YSF-BTN-CIRCLE"></span><div id="YSF-BTN-BUBBLE"><div id="YSF-BTN-CONTENT"></div><span id="YSF-BTN-ARROW"></span><span id="YSF-BTN-CLOSE"></span></div></div><iframe src="https://ipservice.163.com/if/box" id="YSF-IFRAME-DATA" name="-31-6b-63-75-69-78-68-67-6b-32-6c-74-6c-66-32-73-61-74-37-79-3a-3a" style="width: 0px; height: 0px; border: 0px; display: none; outline: none;"></iframe></body></html>

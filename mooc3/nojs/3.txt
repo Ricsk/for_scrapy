@@ -1,0 +1,473 @@
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="UTF-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+			<meta http-equiv="Content-type" content="text/html;charset=utf-8"/>
+			<link rel="shortcut icon" href="http://www.163.com/favicon.ico"/>
+			<title>帮助中心_常见问题</title>
+			<meta name="keyword" content=""/>
+			<meta name="description" content=""/>
+<link type="text/css" rel="stylesheet" href="//mimg.127.net/hxm/helpcenter/p/20131218/style/css/core_51f9107850efcceb4bb6532204857c62.css" />
+				<link type="text/css" rel="stylesheet" href="//mimg.127.net/hxm/helpcenter/p/20131218/style/css/question_ef6a6609226f2c91947d178600984f74.css" />
+
+			<style>
+				.w-popwin{
+					display: none;
+					position:absolute;
+					background-color:#fff;
+				}
+				.err-tips{display:none;}
+				.w-error{
+					color:red;
+				}
+				.w-qiyukf{
+			        position: fixed;
+			        _position: absolute;
+			        bottom: 200px;
+			        right: 0;
+			        height: 100px;
+			        line-height: 15px;
+			        text-decoration: none;
+			        font-size: 14px;
+			        width: 34px;
+			        padding: 18px 8px 0 8px;
+			        vertical-align: middle;
+			        background-color: #2c75b8;
+			        color: #fff;
+			        box-sizing: border-box;
+			    }
+			    .w-qiyukf:hover{
+			    	text-decoration: none
+			    }
+			</style>
+			<script type="text/javascript">
+				var gUid = "",gDomain = "help.mail.163.com",gContextPath = "",bIsLogin = false, gIp = "60.176.37.96";
+				var gStylePath = "//mimg.127.net/hxm";
+				var gAjaxErrorMapping = {
+					400:"参数格式不合法或缺少必须参数",
+					401:"未登录",
+					403:"非法访问",
+					404:"请求处理的对象不存在",
+					409:"请求处理的对象已存在",
+					500:"服务端错误"
+				};
+			</script>
+		</head>
+		<body class="">
+			<div class="g-doc js-doc">
+				<div class="g-hd">
+					<!-- 头部 -->
+					<div class="m-hd">
+						<ul class="logos">
+							<li><a hidefocus href="http://mail.163.com/" target="_blank"><img alt="163邮箱" src="//mimg.127.net/hxm/helpcenter/p/20131218/style/img/logo-163.jpg"/></a></li>
+							<li><a hidefocus href="http://mail.126.com/" target="_blank"><img alt="126邮箱" src="//mimg.127.net/hxm/helpcenter/p/20131218/style/img/logo-126.jpg"/></a></li>
+							<li><a hidefocus href="http://mail.yeah.net/" target="_blank"><img alt="yeah邮箱" src="//mimg.127.net/hxm/helpcenter/p/20131218/style/img/logo-yeah.jpg"/></a></li>
+							<li><h1><img alt="帮助中心" src="//mimg.127.net/hxm/helpcenter/p/20131218/style/img/logo-help.jpg"/></h1></li>
+						</ul>
+						<ul class="links">
+								<li><a hidefocus href="http://email.163.com" target="_blank">进入邮箱</a>|</li>
+							<li><a hidefocus class="b-vip-link" href="http://activity.vip.163.com/activity/redirect_ug.html?from=help" target="_blank">升级VIP</a></li>
+						</ul>
+					</div>
+					<!-- /头部 -->
+					
+					<!-- 导航 -->
+					<div class="m-nav  nav-2-current ">
+						<ul>
+							<li><a hidefocus class="nav nav-1 " href="/index.do">首页</a></li>
+							<li><a hidefocus class="nav nav-2 " href="/faq.do">常见问题</a></li>
+						</ul>
+						<div class="triangle"></div>
+						<div class="sep"></div>
+					</div>
+					<!-- /导航 -->
+					
+					<!-- 搜索 -->
+						<div class="m-search js-search-panel">
+							<b class="ico"></b>
+							<form class="search" id="searchPanel" action="/searchFAQ.do" method="get">
+								<input type="hidden" name="m" value="search" />
+								<input type="text" class="ipt js-search-inputer js-focus" name="word" value="" data-w-placeholder="请简单完整输入您的问题，如“如何找回密码”"/>
+								<input type="submit" class="btn" value="搜索"/>
+								<p class="m-lst-wrap">热门搜索：
+									<a hidefocus href="http://activity.vip.163.com/activity/redirect_ug.html?from=help" target="_blank">升级VIP</a><span class="line"></span>
+									<a hidefocus href="https://v.mail.163.com/?from=helpword#page=butler" target="_blank">超级会员-专属客服</a><span class="line"></span>
+									<a hidefocus href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2123601d2b5a8396c" target="_blank">修改密码</a><span class="line"></span>
+									<a hidefocus href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2fbf6c93eef091d9c" target="_blank">解绑手机</a><span class="line"></span>
+									<a hidefocus href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2984d6cb0cc8dc672" target="_blank">提升安全-防盗号</a><span class="line"></span>
+									<a hidefocus href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2471134859b14da16" target="_blank">帐号加急修复</a><span class="line"></span>
+									<a hidefocus href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac200c96aee6543d483" target="_blank">帐号修复失败</a><span class="line"></span>
+									<a hidefocus href="http://activity.vip.163.com/activity/event/20150518/pure.html?from=help" target="_blank">纯净邮箱-屏蔽广告</a>
+								</p>
+							</form>
+						</div>
+					<!-- /搜索 -->
+				</div>
+				<div class="g-bd">
+        <!-- page body -->
+        <div class="p-question js-qa-container">
+            <div class="m-bd">
+                <!-- sidebar -->
+                <div class="sd">
+<div class="m-list">
+                        <h2 class="w-title">常见问题</h2>
+                        <ul class="js-navigate-list">
+                        
+                                                             <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/2768d261585884a66e0dee969c894501.jpg">
+                                        升级VIP
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=186" class="btn ">升级VIP邮箱</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item item-open">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/ac0a1d085bbfbe1b80dc9867a9774b68.jpg">
+                                        帐号与安全
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=216" class="btn ">找回密码/解绑手机</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=219" class="btn btn-slt">帐号修复指引</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=215" class="btn ">提升帐号安全</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=46" class="btn ">帐号冻结与禁用</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=50" class="btn ">反垃圾/病毒/诈骗</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=49" class="btn ">密保工具</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=51" class="btn ">安全锁</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=217" class="btn ">防沉迷系统</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/ad8b380de21a7754729fac501fa8a7b6.jpg">
+                                        注册与登录
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=44" class="btn ">注册</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=45" class="btn ">登录</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=214" class="btn ">登录验证</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/60055da2236add46f280202f0c774d30.jpg">
+                                        邮件收发
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=52" class="btn ">写信</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=53" class="btn ">发信</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=54" class="btn ">收信</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=55" class="btn ">读信</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=56" class="btn ">退信</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=57" class="btn ">删信</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=58" class="btn ">通讯录/邮件列表</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/3aceea8ae3edca058fc009ddfe3bc32a.jpg">
+                                        邮箱设置
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=73" class="btn ">签名/电子名片</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=74" class="btn ">邮箱自定义</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=75" class="btn ">黑/白名单设置</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=76" class="btn ">IMAP/POP3</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=78" class="btn ">收发信基本操作</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=79" class="btn ">自动回复/转发</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=144" class="btn ">邮箱安全</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/4379ebd1a2a7567d296a70fb63b0013c.jpg">
+                                        手机服务
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=195" class="btn ">邮箱大师</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=181" class="btn ">iPhone客户端</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=84" class="btn ">随身邮</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=89" class="btn ">手机号码邮箱</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/e33a8b4f9a7fca0a70d126a18727e67c.jpg">
+                                        客户端
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=91" class="btn ">闪电邮/邮箱大师PC版</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/7df745d20e83c91ab191f43e2c8403a7.jpg">
+                                        其他邮箱
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=80" class="btn ">多帐户关联</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=81" class="btn ">邮箱中心</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/2d0a3f49513eddf222a422a0d695a320.jpg">
+                                        邮件管理
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=59" class="btn ">文件夹管理</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=60" class="btn ">邮件会话</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=61" class="btn ">邮件搜索</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=62" class="btn ">来信分类</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=63" class="btn ">邮件撤回</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=64" class="btn ">标签管理</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=152" class="btn ">邮件备注</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/3d596f4d17fcad8db180310f9d160d7c.jpg">
+                                        实用功能
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=93" class="btn ">日程管理</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=94" class="btn ">文件中心</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=95" class="btn ">相册</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=96" class="btn ">更新通知</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=97" class="btn ">简历中心</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=116" class="btn ">记事本</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=117" class="btn ">应用中心</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=176" class="btn ">待办邮件</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=177" class="btn ">联系人邮件</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=190" class="btn ">帐号通</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=191" class="btn ">公正邮</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=197" class="btn ">客户端授权码</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/4ac3ed8c3984ec6674c4ddfc6fab6fa8.jpg">
+                                        活动/娱乐
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=101" class="btn ">音乐盒</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=102" class="btn ">邮票/集邮中心</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/2e9f5387ab1aea187eb9d65b907cafe9.jpg">
+                                        用户俱乐部
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=104" class="btn ">邮箱积分</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=107" class="btn ">积分活动</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=184" class="btn ">高端社区活动</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=196" class="btn ">2015贺卡信</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/720c853f1ee16859a08b08d69d37a5fd.jpg">
+                                        增值服务
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=192" class="btn ">增值服务类型</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=193" class="btn ">支付帮助</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=222" class="btn ">网易靓号</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=201" class="btn ">网易公正邮</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=202" class="btn ">云附件存放期</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=203" class="btn ">误删恢复</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=204" class="btn ">生命之树</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="javascript:;" class="btn1 js-navigate-toggle">
+                                            <img class="ico1" src="http://nos.netease.com/help/f905afaa904c46864ce8dd67a61cfe0c.jpg">
+                                        附件与网盘
+                                        <b class="ico2"></b>
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                        <ul class="list list-child js-children ">
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=69" class="btn ">附件上传/下载</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=70" class="btn ">附件预览</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=71" class="btn ">网盘</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=72" class="btn ">附件管理</a></li>
+	                                           <li class="item "><a hidefocus href="/faq.do?m=list&categoryID=163" class="btn ">云附件</a></li>
+	                                    </ul>
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="/faq.do?m=list&categoryID=-1" class="btn1 ">
+                                            <img class="ico1" src="http://nos.netease.com/help/e7aced006a652e636f5cbc7a30b7250d.jpg">
+                                        其他
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                    <!-- /2级菜单 -->
+                                </li>
+                                 <li class="item ">
+                                    <a hidefocus href="/faq.do?m=list&categoryID=-2" class="btn1 ">
+                                            <img class="ico1" src="http://nos.netease.com/help/70f227c42fec8b3a24707d93a11d9156.jpg">
+                                        热点问题
+                                    </a>
+                                    <!-- 2级菜单 || category.parentID!=0 && category.parentID == cag.id-->
+                                    <!-- /2级菜单 -->
+                                </li>
+                            
+                        </ul>
+                    </div>                </div>
+                <!-- /sidebar -->
+                
+                <!-- main  -->
+                <div class="mn">
+                    <div class="mnc js-qa-list">
+                            <script type="text/javascript">
+                                window.faqs = null;
+                            </script>
+
+<div class="m-list">
+            <h2 class="w-title">邮箱帐号常见问题集锦</h2>
+
+    <ul class="list-3">
+                <div class="box box-1">
+                    <textarea style="display:none;" class="js-content-tmpl"><div><font size="4"  ><b><font face="楷体_GB2312"  >享私人客服，贵宾专线，极速答疑，</font></b><a target="_blank"  href="https://v.mail.163.com/?from=helpquestion"  >马上开通网易超级会员&gt;&nbsp;&nbsp;</a><b>首次开通会员还能赢iPhone X</b></font></div><div><font size="4"  ><font face="Microsoft Yahei"  ><br></font></font></div><div><font size="4"  ><font face="Microsoft Yahei"  >1、我有一封重要的邮件（来自Apple的）加了锁，该如何打开？&gt;&gt;&gt;&nbsp;</font></font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac25799203aa313bd2b"  ><font size="4"  >点这里</font></a></div><div><span style=""  ><font size="4"  ><br></font></span></div><div><font size="4"  >2<font face="Microsoft Yahei"  >、我的手机号已注销/不用了，还可以登录邮箱，如何<font color="#ff2b06"  >解绑关联手机</font>？</font></font><font color="#4e4e4e"  face="Microsoft Yahei"  size="4"  >&gt;&gt;&gt;&nbsp;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2fbf6c93eef091d9c"  ><font size="4"  >点这里</font></a></div><div><font size="4"  ><br></font></div><div><font size="4"  ><font face="Microsoft Yahei"  >3、</font></font><font face="Microsoft Yahei"  style="font-size: large;"  >我还可以登录邮箱，如何通过<font color="#ff2b06"  >密保问题</font>重置密码？</font><font color="#4e4e4e"  face="Microsoft Yahei"  style="font-size: large;"  >&gt;&gt;&gt;&nbsp;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac29ef0d246c7314643"  >点这里</a></div><div><font size="4"  face="Microsoft Yahei"  ><br></font></div><div><font size="4"  ><font face="Microsoft Yahei"  >4、</font></font><font face="Microsoft Yahei"  style="font-size: large;"  >我的密码忘记/错误，如何通过<font color="#ff2b06"  >关联手机</font>重置密码？</font><font color="#4e4e4e"  face="Microsoft Yahei"  style="font-size: large;"  >&gt;&gt;&gt;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac21de45594377756c2"  >点这里</a></div><div><font size="4"  face="Microsoft Yahei"  ><br></font></div><div><font size="4"  ><font face="Microsoft Yahei"  >5、我的密码忘记/错误，如何通过<font color="#ff2b06"  >密保邮箱</font>重置密码？</font><font color="#4e4e4e"  face="Microsoft Yahei"  >&gt;&gt;&gt;&nbsp;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac244ead74ff19d62c9"  >点这里</a></font></div><div><font size="4"  face="Microsoft Yahei"  ><span style=""  ><br></span></font></div><div><font size="4"  ><font face="Microsoft Yahei"  >6、我的密码忘记/错误，如何通过<font color="#ff2b06"  >QQ号</font>重置密码？</font><font color="#4e4e4e"  face="Microsoft Yahei"  >&gt;&gt;&gt;&nbsp;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2aaed5f93cefcc9e8"  >点这里</a></font></div><div><br></div><div><font face="Microsoft Yahei"  style="font-size: large;"  >7、我的密码忘记/错误，如何通过<font color="#ff2b06"  >邮箱联系人</font>重置密码？</font><font color="#4e4e4e"  face="Microsoft Yahei"  style="font-size: large;"  >&gt;&gt;&gt;</font><font size="4"  ><font color="#4e4e4e"  face="Microsoft Yahei"  >&nbsp;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2daa93fa45520c4e5"  >点这里</a></font></div><div><font size="4"  face="Microsoft Yahei"  ><span style=""  ><br></span></font></div><div><font size="4"  ><font face="Microsoft Yahei"  >8、以上方法都不能解绑手机/修改密码，怎么办？</font><font face="Microsoft Yahei"  color="#ff2b06"  >（终极大法）</font><font color="#4e4e4e"  face="Microsoft Yahei"  >&gt;&gt;&gt;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac27b4270a20c2e9dbf"  >&nbsp;点这里&nbsp;</a></font></div><div><br></div><div><font size="4"  ><font face="Microsoft Yahei"  >9、我已提交帐号修复申请，想</font><font face="Microsoft Yahei"  color="#ff2b06"  >快点收到修复结果</font><font color="#4e4e4e"  face="Microsoft Yahei"  >，</font><font face="Microsoft Yahei"  >怎么办？</font><font color="#4e4e4e"  face="Microsoft Yahei"  >&gt;&gt;&gt;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2471134859b14da16"  >点这里</a></font></div><div><br></div><div><font size="4"  face="Microsoft Yahei"  >10、帐号修复<font color="#ff2b06"  >总是失败</font>，怎么办？（<span style=""  >深度解析修复失败的原因</span>）</font><font face="Microsoft Yahei"  size="4"  >&gt;&gt;&gt;</font><font color="#4e4e4e"  face="Microsoft Yahei"  size="4"  >&nbsp;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac200c96aee6543d483"  ><font size="4"  >点这里&nbsp;</font></a></div><div><font size="4"  face="Microsoft Yahei"  ><br></font></div><div><font size="4"  face="Microsoft Yahei"  >11、<b><font color="#ff2b06"  >怎么保证邮箱不被盗号？立刻提升邮箱安全系数</font></b></font><font face="Microsoft Yahei"  size="4"  >&gt;&gt;&gt;</font><font size="4"  color="#ff2b06"  ><b><font face="Microsoft Yahei"  >&nbsp;</font><a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2984d6cb0cc8dc672"  >点这里&nbsp;</a></b></font></div><div><font size="4"  color="#ff2b06"  ><br></font></div><div><font size="4"  >点击了解<a target="_blank"  href="http://help.mail.163.com/faqDetail.do?code=d7a5dc8471cd0c0e8b4b8f4f8e49998b374173cfe9171305fa1ce630d7f67ac2274ecc89ed0f9d9a"  >网易超级会员&gt;&gt;</a></font></div><div><br></div></textarea>
+                </div>
+    </ul>
+</div>
+<style type="text/css">
+    .w-bread-nav{
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            height: 22px;
+            line-height: 22px;
+            color: #000;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .w-bread-nav .nav-item{
+            float: left;
+            display: inline;
+            padding-right: 10px;
+        }
+        .w-material-holder{
+            width: 100%;
+            overflow:hidden; 
+            background-color: transparent;
+        }
+</style>
+                    </div>
+                </div>
+
+                <div class="b-ads">
+                    <a href="http://activity.vip.163.com/activity/redirect_rg.html?from=help" target="_blank">
+                        <img src="/misc/vip-lock-mot.jpg">
+                    </a>
+                </div>
+                <!-- /main -->
+            </div>
+        </div>
+        <!-- 七鱼客服 -->
+        <!--<a href="#" class="w-qiyukf" onclick="ysf.open();return false;">呼叫小易</a>
+        <script src="https://qiyukf.com/script/53e2302d70bda67997c5ffc8056f7c3b.js" defer async></script>-->
+        <!-- /page body -->
+				</div>
+				<div class="g-ft">
+					<div class="m-ft">
+						<a hidefocus target="_blank" href="http://gb.corp.163.com/gb/home.shtml">关于网易</a>
+						<a hidefocus target="_blank" href="http://mail.blog.163.com/">邮箱官方博客</a>
+						<a hidefocus target="_blank" href="http://vipmail.163.com/">网易VIP邮箱</a>
+						<a hidefocus target="_blank" href="http://gzy.mail.163.com/ ">网易公正邮</a>
+						<a hidefocus target="_blank" href="http://jubao.china.cn:8088/reportinputcommon.do">举报违法信息</a>
+						<a hidefocus target="_blank" href="http://gb.corp.163.com/gb/legal.html">隐私政策</a>
+						<p>网易公司版权所有 &copy; 1997-<script language="javascript" src="//mimg.127.net/copyright/year.js"></script></p>
+					</div>
+				</div>
+			</div>
+<script type="text/javascript" src="//mimg.127.net/hxm/helpcenter/p/20131218/js/c2_ffdc6f404563742e82b877b1117b72c2.js" charset="utf-8"></script>
+
+				<script type="text/javascript" src="//mimg.127.net/hxm/helpcenter/p/20131218/js/qa_03fdd5315f9ee2e2a2d347b3fcb31e8d.js" charset="utf-8"></script>
+
+
+			
+			<script class="lazyload" id="template-loginForm" type="text/x-jqote-template">
+				<div class="tip">登录后您可以在“我的反馈”中查看反馈记录及产品经理给您的回复</div>
+				<form class="m-form" id="loginForm" action="https://reg.163.com/logins.jsp" method="post">
+                    <table>
+                        <tbody><tr>
+                            <th width="80">帐号：</th>
+                            <td width="190" class="haserr">
+                            	<input type="text"  type="text"name="user" id="user" class="w-input">
+                            	</td>
+                            <td>
+                                <div class="w-select">
+                                	<select id="domain" name="domain" class="w-domain">
+										<option value="@163.com">163.com</option>
+										<option value="@126.com">126.com</option>
+										<option value="@yeah.net">yeah.net</option>
+									</select>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>密码：</th>
+                            <td  class="haserr">
+                            	<input type="password" name="password" id="password" class="w-input">
+                            	<input id="username" type="hidden" name="username" value="" />
+								<input id="product" type="hidden" name="product" value="mail163" />
+								<input id="url" type="hidden" name="url" value="http://help.mail.163.com/index.do" />
+                            </td>
+                            <td><a href="http://reg.163.com/RecoverPassword.shtml" target="_blank"  hidefocus="">忘记密码了？</a></td>
+                        </tr>
+                        <tr>
+                            <th></th>
+                            <td colspan="2"><input type="submit" value="登 录" class="w-btn" hidefocus=""></td>
+                        </tr>
+                    </tbody></table>
+                </form>
+                <div class="tip1">登录不了？您也可以以游客的方式提交反馈 <a hidefocus="" href="/feedback.do?m=add">游客进入</a></div>
+            </script>
+            <a class="w-gototop" style="display: none;" id="goTop" href="javascript:;">返回顶部</a>
+		</body>
+	</html>

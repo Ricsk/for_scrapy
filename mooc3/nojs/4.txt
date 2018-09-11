@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>网易邮箱黄页</title>
+    <link rel="stylesheet" href="http://mimg.127.net/hd/all3/160510_yellow/160516/css/anismp.css">
+    <script>
+        (function(){var f=document.getElementsByTagName("head")[0];var c="header,footer,section,aside,article,nav,hgroup,figure,figcaption,details,summary";var b="time,mark,ruby,rt,rp,output,keygen,meter,progress,command,source";var d="video,audio,canvas,datalist";var a=document.createElement("style");a.type="text/css";sCSS=c+"{display:block;margin:0;padding:0;border:none}"+b+"{text-decoration:none;font-style:normal;font-weight:normal}";if(a.styleSheet){var g=(c+","+b+","+d).split(",");for(var e=0;e<g.length;e++){document.createElement(g[e])}a.styleSheet.cssText=sCSS}else{a.innerHTML=sCSS}f.appendChild(a)})();
+    </script>
+</head>
+<body>
+    <header class="header">
+        <div class="wraper">
+            <h1 class="logo">网易邮箱黄页</h1>
+            <h2 class="slogan">汇聚全国政府机构、高校电子邮箱</h2>
+        </div>
+    </header>
+    <nav class="nav wraper">
+        <a href="http://114.163.com/">&lt;返回网易黄页</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        邮箱黄页 &gt; <span class="target" id="targetArea">--</span>
+    </nav>
+    <section class="frame wraper">
+        <aside class="province">
+            <ul id="areaList"></ul>
+        </aside>
+        <div class="information ani" id="detailList"></div>
+    </section>
+
+    <footer class="footer wraper">
+        网易公司版权所有 &copy; 1997-<script src="http://mimg.127.net/copyright/year.js"></script>
+    </footer>
+
+
+    <script src="http://mimg.127.net/hd/all3/160510_yellow/js/ZeroClipboard.min.js"></script>
+    <script src="http://mimg.127.net/hd/all3/160510_yellow/160516/js/mainsmp.min.js"></script>
+</body>
+</html>

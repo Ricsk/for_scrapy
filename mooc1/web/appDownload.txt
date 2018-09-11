@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="zh" lang="zh">
+<head>
+<title>客户端下载_中国大学MOOC(慕课)</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<link rel="shortcut icon" href="//edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100" />
+<meta http-equiv="x-dns-prefetch-control" content="on"/>
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<link rel="dns-prefetch" href="//s.stu.126.net"/>
+<link rel="dns-prefetch" href="//icourse163.org/"/>
+<link rel="dns-prefetch" href="//mc.stu.126.net"/>
+<link rel="dns-prefetch" href="//mooc.study.163.com"/>
+<link rel="dns-prefetch" href="//webzj.reg.163.com"/>
+<link rel="dns-prefetch" href="//ursdoccdn.nosdn.127.net/"/>
+<link rel="dns-prefetch" href="//nos.netease.com"/>
+<link rel="dns-prefetch" href="//imgsize.ph.126.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//push.zhanzhang.baidu.com"/>
+<link rel="dns-prefetch" href="//api.share.baidu.com"/>
+<link rel="dns-prefetch" href="//js.passport.qihucdn.com"/>
+<link rel="dns-prefetch" href="//s2.qhimg.com"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Cache-Control" content="no-cache" max-age="0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Expires" content="0"/>
+<meta name="author" content="Netease"/>
+<meta name="version" content="1.0"/>
+<meta name="keywords" content="中国大学MOOC,中国大学MOOC（慕课）"/>
+<meta name="description" content="中国大学MOOC,中国大学MOOC（慕课）"/>
+<meta name="robots" content="all"/>
+<meta name="360-site-verification" content="92d0cfcc97ca254f26fcc0586fa319b6" />
+<meta name="sogou_site_verification" content="kFeGWcT6tD"/>
+<meta name="baidu-site-verification" content="BYFmFBILbh" />
+<meta name="shenma-site-verification" content="8ef752d11066ef909303c078d32230d6_1456214698">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1,
+user-scalable=no"/>
+<meta property="wb:webmaster" content="766092f2bbf0c80d" />
+<meta property="qc:admins" content="22061604124161636375" />
+<script>location.config = {root:'/pub/h/mobile/',mode:1,ver:{"common/commonutil.html":"22c8693949fe0c16527c1ae43264358d","course/courseDetail.html":"866b961a940a6c8510300e7394da775f","error/error.html":"6137e66ef2a7cb07e175ad3a146b132a","junwei-app-course/courseDetail.html":"58dd80d02d37cac6fc781b1747ed19fc","junwei-app-course/courseLearn.html":"c8ce95c826658ff7801df95f2fa94a4b","live/index.html":"63fae84676420463d89a75cfc1697b89","live/playBack.html":"6273a7af0d11ee8e327e12ef17660ce8","member/login.html":"1d7e79ac0dc16f19f3d8ffd78e272080","module-live/src/component/live-mobile-chat/component.html":"56a760f86e8216076c36c2a4c79802b8","module-live/src/component/live-mobile-player/component.html":"37ceef60535336bec734a936dd34f3f4","module-live/src/component/live-pc-chat/component.html":"4333a7c7c8d8d8b46ea9831695e73d34","module-live/src/component/live-pc-player/component.html":"8963f23b2a7afec4db77214b672ca5b9","module-live/src/live-mobile/index.html":"65145a4a910ef19cf90a6930343db58f","module-live/src/live-pc/index.html":"b8422bb994b8392a0af7b4f70a61d03e","module-live-room/src/component/room-list-view/component.html":"49e22f8f07d924312b6616c463686e52","module-live-room/src/live-room/index.html":"81e35f67c72ff897204e42c1573e735c","scholarship2017/index/index.html":"28da4713988c82d0c6249141c47f3fce"}};</script>
+<script>
+var $$$nativeWindowKeys = ["postMessage","blur","focus","close","frames","self","window","parent","opener","top","length","closed","location","document","origin","name","history","locationbar","menubar","personalbar","scrollbars","statusbar","toolbar","status","frameElement","navigator","applicationCache","customElements","external","screen","innerWidth","innerHeight","scrollX","pageXOffset","scrollY","pageYOffset","screenX","screenY","outerWidth","outerHeight","devicePixelRatio","clientInformation","screenLeft","screenTop","defaultStatus","defaultstatus","styleMedia","onanimationend","onanimationiteration","onanimationstart","onsearch","ontransitionend","onwebkitanimationend","onwebkitanimationiteration","onwebkitanimationstart","onwebkittransitionend","isSecureContext","onabort","onblur","oncancel","oncanplay","oncanplaythrough","onchange","onclick","onclose","oncontextmenu","oncuechange","ondblclick","ondrag","ondragend","ondragenter","ondragleave","ondragover","ondragstart","ondrop","ondurationchange","onemptied","onended","onerror","onfocus","oninput","oninvalid","onkeydown","onkeypress","onkeyup","onload","onloadeddata","onloadedmetadata","onloadstart","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onpause","onplay","onplaying","onprogress","onratechange","onreset","onresize","onscroll","onseeked","onseeking","onselect","onstalled","onsubmit","onsuspend","ontimeupdate","ontoggle","onvolumechange","onwaiting","onwheel","ongotpointercapture","onlostpointercapture","onpointerdown","onpointermove","onpointerup","onpointercancel","onpointerover","onpointerout","onpointerenter","onpointerleave","onbeforeunload","onhashchange","onlanguagechange","onmessage","onmessageerror","onoffline","ononline","onpagehide","onpageshow","onpopstate","onrejectionhandled","onstorage","onunhandledrejection","onunload","performance","stop","open","alert","confirm","prompt","print","requestAnimationFrame","cancelAnimationFrame","requestIdleCallback","cancelIdleCallback","captureEvents","releaseEvents","getComputedStyle","matchMedia","moveTo","moveBy","resizeTo","resizeBy","getSelection","find","getMatchedCSSRules","webkitRequestAnimationFrame","webkitCancelAnimationFrame","btoa","atob","setTimeout","clearTimeout","setInterval","clearInterval","createImageBitmap","scroll","scrollTo","scrollBy","onappinstalled","onbeforeinstallprompt","caches","crypto","ondevicemotion","ondeviceorientation","ondeviceorientationabsolute","indexedDB","webkitStorageInfo","sessionStorage","localStorage","fetch","onauxclick","visualViewport","speechSynthesis","webkitRequestFileSystem","webkitResolveLocalFileSystemURL","openDatabase","chrome", '__REGULAR_DEVTOOLS_GLOBAL_HOOK__', '$$$nativeWindowKeysCheckMap', '$$$nativeWindowKeys', '$$$globalErrors'];
+var $$$nativeWindowKeysCheckMap = {},
+i = 0,
+l = $$$nativeWindowKeys.length;
+for (; i < l; i++) {
+$$$nativeWindowKeysCheckMap[$$$nativeWindowKeys[i]] = 1;
+}
+window.__globalErrorEvents = [];
+function errorEventHandler(e) {
+window.__globalErrorEvents.push(e);
+}
+function addEvent(el, ev, fn) {
+if (el) {
+if (el.addEventListener) {
+el.addEventListener(ev, fn);
+} else if (el.attachEvent) {
+el.attachEvent(ev, fn);
+}
+}
+}
+addEvent(window, 'error', errorEventHandler);
+delete window.addEvent;
+</script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libEs5Shim_5bbf31f93e60b15fb3bcb2ba8bdac626.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libEs6Shim_b1d0c40a89ec7748483661e8cf64e3ec.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libRegular_e3fc7f63ef5a597f84cc352c95c59683.js"></script>
+<script type="text/javascript" src="//ursdoccdn.nosdn.127.net/webzj_cdn101/pathb_message_17011101.js"></script>
+<script>
+window.gaProduct = "mooc";
+window.urlPrefix = {
+indexPrefix             : "/",
+homePrefix              : "/home.htm",
+loginPrefix             : "/member/login.htm",
+logoutPrefix            : "/passport/member/logout.htm",
+searchPrefix            : "/search.htm",
+courseListPrefix        : "/course/index.htm",
+universityListPrefix    : "/university/view/all.htm",
+universityPrefix        : "/university/",
+universityPreviewPrefix : "/university/preview/",
+vocationIndexPrefix     : "/vemooc",
+courseInfoPrefix        : "/course/",
+courseInfoPreviewPrefix : "/course/preview/",
+courseLearnPrefix       : "/learn/",
+courseLearnPreviewPrefix: "/learn/preview/",
+courseLearnReviewPrefix : "/learn/review/",
+learnForTeacherPrefix   : "/learn/enroll/",
+spocMainPrefix          : "/spoc/index.htm",
+spocCourseInfoPrefix    : "/spoc/course/",
+spocCourseLearnPrefix   : "/spoc/learn/",
+spocUsityIdPrefix       : "/spoc/university.htm?schoolId=",
+spocUniversityListPrefix      : "/university/view/all.htm",
+spocUniversityPrefix       	  : "/spoc/university/",
+spocUniversityPreviewPrefix   : "/spoc/university/preview/",
+spocMemberPrefix       		  : "/spoc/u/",
+spocMemberPreviewPrefix       : "/spoc/u/preview/",
+memberPrefix            : "/u/",
+memberPreviewPrefix     : "/u/preview/",
+addMemberInfoPrefix     : "//www.icourse163.org/member/addMemberInfo.htm",
+partnerSuperAdminPrefix : "/partnerAdmin/superAdmin.htm",
+partnerEditorAdminPrefix: "/partnerAdmin/editorAdmin.htm",
+adminManagerPrefix      : "/collegeAdmin/schoolPanel.htm",
+adminTeacherPrefix      : "/collegeAdmin/teacherPanel.htm",
+coursecreatePrefix      : "/collegeAdmin/courseCreate.htm",
+adminSetMessagePrefix   : "/collegeAdmin/setMessage.htm",
+adminSettingPrefix      : "/collegeAdmin/setting.htm",
+adminToolsPrefix        : "/collegeAdmin/tools.htm",
+termManagePrefix        : "/collegeAdmin/termManage/",
+reviewQuizPrefix        : "/review/quiz/{id}.htm",
+reviewHwPrefix          : "/review/hw/",
+reviewTrainPrefix       : "/review/train/",
+teacherMainEditPrefix   : "/user/teacherMainEdit.htm",
+personInfoSettingPrefix : "/user/setting/personInfoEdit.htm",
+accountSettingPrefix    : "/user/setting/accountSetting.htm",
+attachmentPrefix        : "/homework/attachment.htm",
+titleAttachmentPrefix   : "/question/title/attachment.htm",
+notSupportedPrefix      : "/common/errors/notSupported.htm",
+helpFrontPrefix         : "/help/help.htm",
+helpBackIndexPrefix     : "/help/helpIndex.htm",
+helpBackPrefix          : "/help/manageHelp.htm",
+scholarship2017TeamPrefix           : "/scholarship2017/team/team.htm",
+aboutUsPrefix           : "/about/aboutus.htm",
+contactUsPrefix         : "/about/contactus.htm",
+certApplyPrefix         : "/cert/apply.htm",
+certDesignPrefix        : "/cert/certDesign/{id}.htm",
+chargeCertDesignPrefix  : "/cert/chargeCertDesign/{id}.htm",
+payOrderPrefix          : "/pay/order.htm",
+donateCoursePrefix      : "/donate/course.htm",
+getTextPrefix           : "/resource/getText.htm",
+cdnReportPrefix			: '//study.163.com/about/cdnReport.htm',
+snsOAuthPrefix          : "/passport/sns/doOAuth.htm",
+ursAuthorPrefix         : "//www.icourse163.org/member/ursLogin.htm",
+thirdBindCallbackHref   : "//www.icourse163.org/logingate/urs/bindCallback.htm",
+icourseAuthorPrefix     : "//www.icourse163.org/member/icourseLogin.htm"
+};
+window.moocHost             = "icourse163.org";
+window.moocHref             = "//www.icourse163.org";
+window.moocStaticHost       = "mc.stu.126.net";
+window.callAppDownloadHref  = "//www.icourse163.org/client/callAppDownload.htm";
+window.NEJ_CONF = {
+clipboard: '//mc.stu.126.net/res/swf/nej_clipboard.swf?0eba83544b107d7207d8936baab41283'
+};
+
+window.serverTimeDiff = new Date().getTime() - 1525607566850;
+window.webUser = {
+id:"1136111566",
+nickName:"ykt1519893318334",
+roles:[
+],
+passport:"g586268@163.com",
+
+personalUrlSuffix:"ykt1519893318341",
+
+
+loginId:"g586268@163.com",
+loginType:"-1",
+
+email:"g586268@163.com",
+
+end_key:"end_value"
+};
+window.cert_owner = false;
+window.currentPageName = "appDownload";
+window.imageUrlMap = {
+loading_circle_gif:"//mc.stu.126.net/res/images/ui/loading_circle.gif?00ef871b291bc03a497d608a5bd8ec99",
+share_sprite:"//mc.stu.126.net/res/images/ui/shareUI.png?e2653a364a790663aed6c6ece19fd83a",
+ui_sprite:"//mc.stu.126.net/res/images/ui/ui_sprite.png?5f7eedcf69b8a05d3ed53b4c1918de1c",
+forum_icon_sprite:"//mc.stu.126.net/res/images/ui/forum_icon.png?b12539c2400cc76ad30262bdf7e12cbd",
+image_upload_swf:"//mc.stu.126.net/res/swf/imageUpload.swf?884965992b66cee07fb945929ac4b00f",
+image_pdf_swf:"//mc.stu.126.net/res/swf/pdfReader.swf?74ddf86a5d97e5af891638154a0989d1",
+image_video_swf:"//mc.stu.126.net/res/swf/moocPlayer.swf",
+img_upd_select_swf:"//mc.stu.126.net/res/swf/DragCutUpload_mooc.swf?ac94fb92d65cb0f12a93a8ca00fa3df9",
+img_default_big_head:"//edu-image.nosdn.127.net/457BE69DFFF1A6157EAF6D44EA2D8662.png?imageView&thumbnail=180y180&quality=100",
+img_default_small_head:"//mc.stu.126.net/res/images/common/headImg/small.jpg?06517f5e438da035a4016abd8e661d2f",
+img_default_unviersity_1:"//mc.stu.126.net/res/images/common/default/university1.png?55bbec907070a55ee4d333bc645445d1",
+img_default_unviersity_2:"//mc.stu.126.net/res/images/common/default/university2.png?a00032f80fa68a6ea6135ee8df9ed7a4",
+img_default_unviersity_3:"//mc.stu.126.net/res/images/common/default/university3.png?63f350451049f7803b014abab9408a4d",
+img_default_unviersity_cert:"//mc.stu.126.net/res/images/common/default/universityCert.png?4c209d5c5ebddc91e80fcf34795ddae1",
+img_default_course:"//mc.stu.126.net/res/images/common/default/course.jpg?2bc75b250fac482eabbcbc071b94abd4",
+img_default_signature:"//mc.stu.126.net/res/images/common/signature_example.png?a15f9c690bfd58771de32d5c483dea59",
+img_step_score_mail:"//mc.stu.126.net/res/images/common/step_score_mail.jpg?201e015a404c3c7aef85de694a4b6622"
+};
+window.swfUrlMap = {
+CloudPlayer:"//mc.stu.126.net/res/swf/eduPlayer.swf?44b31cc78f39b70739b248ddfc803915",
+cloudPlayerUI:"//mc.stu.126.net/res/swf/cloudPlayerUI.swf?83eaf96a4fa93df776e734c42d59ecc6"
+}
+window.URSLoginConfig = {
+product : 'imooc',
+promark : 'cjJVGQM',
+host : 'www.icourse163.org',
+cookieDomain : 'icourse163.org',
+skin : 3,
+page : 'login',
+needUnLogin : 1 ,
+defaultUnLogin:1,
+placeholder : {account:'常用邮箱或网易邮箱',pwd:'密码'},
+needPrepare: 1,
+regUrl : '//zc.reg.163.com/regInitialized?pd=imooc&pkid=YeaYYzQ&pkht=www.icourse163.org',
+coverBackground : "background:-webkit-radial-gradient(center,rgba(0,0,0,0.3),#000 75%);",
+single : 1,
+cssDomain : '//cmc.stu.126.net/u/css/cms/',
+cssFiles : 'urs4moocweb.css',
+frameSize : {'width':380,'height':282},
+logincb : function(cb){}
+};
+</script>
+<script type="text/javascript">
+window.isMobilePhone = "false";
+window.gaTrackPageview = '_trackPageview';
+window.gaTrackEvent = '_trackEvent';
+window.gaqStr = '_gaq';
+window.m_shareUrl = "";
+var _ua = 'UA-35176345-3';
+// var _ua = 'UA-35176345-8'; //fix http://jira.netease.com/browse/MOOC-3603
+window._gaq = [];
+window._gaq.push(['_setAccount', _ua],['_setLocalGifPath', '/' + _ua + '/__utm.gif'],['_setLocalRemoteServerMode']);
+window._gaq.push(['_addOrganic', 'm.baidu.com', 'word']);
+window._gaq.push(['_addOrganic', 'soso', 'search']);
+window._gaq.push(['_addOrganic', 'sogou', 'query']);
+window._gaq.push(['_addOrganic', 'haosou', 'q']);
+window._gaq.push(['_addOrganic', 'youdao', 'q']);
+window._gaq.push(['_addOrganic', 'chinaso', 'q']);
+window._gaq.push(['_addOrganic', 'zhongsou', 'w']);
+window._gaq.push(['_addOrganic', 'm.sp.sm.cn', 'w']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = '//wr.da.netease.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!--[if lt IE 9]>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libH5Shiv_f4d9dea8e0ae8455500862bbb874d63c.js"></script>
+<![endif]-->
+<script src="//hubble-js-bucket.nosdn.127.net/DATracker.sync.1.5.0.js"></script>
+<script>
+//初始化
+DATracker.init('MA-A976-948FFA05E931', {
+use_app_track: true,
+heatmap: {
+isTrackLink: true
+}
+})
+</script><script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/mobile/libHammer_d259bb80e54c2a71dde8ceb6e29a0116.js"></script></head>
+<script type="text/javascript">
+window.apkname = "";
+window.trackFrom = "";
+</script>
+<body>
+<div class="j-androidWeixin" style="display:none"><img style="width:100%" src="//mc.stu.126.net/res/images/common/weixinRedirect.png?227bb65978eec7cf3c3bc56bb021110d" alt></div>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/web/core_62fb0bbd3e1e6665ea01e0108efe49ae.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/web/pt_client_appDownload_50a4c6a2f4dd9de57e0ab301a0a3b77c.js"></script>
+</body>
+</html>

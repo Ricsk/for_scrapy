@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="zh" lang="zh">
+<head>
+<title>中国大学MOOC重磅推出大学先修课程，证书还能抵学分哦！_中国大学MOOC(慕课)</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<link rel="shortcut icon" href="//edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100" />
+<meta http-equiv="x-dns-prefetch-control" content="on"/>
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<link rel="dns-prefetch" href="//s.stu.126.net"/>
+<link rel="dns-prefetch" href="//icourse163.org/"/>
+<link rel="dns-prefetch" href="//mc.stu.126.net"/>
+<link rel="dns-prefetch" href="//mooc.study.163.com"/>
+<link rel="dns-prefetch" href="//webzj.reg.163.com"/>
+<link rel="dns-prefetch" href="//ursdoccdn.nosdn.127.net/"/>
+<link rel="dns-prefetch" href="//nos.netease.com"/>
+<link rel="dns-prefetch" href="//imgsize.ph.126.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//push.zhanzhang.baidu.com"/>
+<link rel="dns-prefetch" href="//api.share.baidu.com"/>
+<link rel="dns-prefetch" href="//js.passport.qihucdn.com"/>
+<link rel="dns-prefetch" href="//s2.qhimg.com"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Cache-Control" content="no-cache" max-age="0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Expires" content="0"/>
+<meta name="author" content="Netease"/>
+<meta name="version" content="1.0"/>
+<meta name="keywords" content="大学先修课,CAP,高中生,大学,先修,自主招生,高考,浙江大学,浙大,南大,大学先修,学分,学分认证,中国大学,MOOC,高三,中国大学MOOC（慕课）"/>
+<meta name="description" content="中国大学MOOC重磅推出大学先修课程，证书还能抵学分哦！,中国大学MOOC（慕课）"/>
+<meta name="robots" content="all"/>
+<meta name="360-site-verification" content="92d0cfcc97ca254f26fcc0586fa319b6" />
+<meta name="sogou_site_verification" content="kFeGWcT6tD"/>
+<meta name="baidu-site-verification" content="BYFmFBILbh" />
+<meta name="shenma-site-verification" content="8ef752d11066ef909303c078d32230d6_1456214698">
+<meta property="wb:webmaster" content="981d7778ffe598a6" />
+<meta property="qc:admins" content="2206160020613752351636727736372561577477166045" />
+<script>location.config = {root:'/pub/h/web/',mode:1,ver:{"about/contactus.html":"107150937cbf51788f398b2b17ddad3c","center/accountSetting.html":"2f898bbf3da1b2a48c88d0e3e8697ffb","center/mailSetting.html":"eb65403266521f9a1312919b82097775","center/personInfoSetting.html":"e2cf5d093d74f922bd10d90746d54e13","center/teacherCenter.html":"b622f2f0c7d51efc4f384c5248f6b59d","center/teacherCenterEdit.html":"5d417a57a65fbbe932200ba2dd2b7868","center/teacherInfoEdit.html":"8d8c014b06db6d1229f443e2ae8d3f35","center/universityCenter.html":"4a6824dcaaf9912f91e11f62d0b18467","cert/apply.html":"86ec2b7eba051b59b2cf2014536f885b","cert/certDesign.html":"fde6bb2def842b1589dd6ef9f97d3123","cert/verify.html":"53d9fa93acab7f377715a416aa369710","common/commonutil.html":"5d790d7f472ef5a669e91cef2cd66184","course/courseList.html":"ff377b1ce5222676f8ae86bebd8e9cfb","course/info.html":"1f219654044918c0536fe25dcfd18f65","error/error.html":"4a4212803f3f9f1da959ddf09aef4d48","help/helpBack.html":"9317dc159428dacb16b4993abacdf358","help/helpFront.html":"79f228368e10d799466823b636d50188","home/course.html":"01c71a090edf35e0116c0561b3667fca","home/discuss.html":"2dfcd72d796a12fcd47a97c148c95a3d","home/index.html":"b61455d25a8edadc354c289ce0331509","home/mycert.html":"39bd1c41d1ff28c37fd60ab5a70d0dd6","home/selfIntro.html":"ca4162bf633a87dc17e190092c158fa8","index.html":"d53b86baba97cfc364840995d73e9378","live/index.html":"af56aed66481c62077913a7c8b52c695","member/addMember.html":"994ac1cdea9eca8634209b3822152b56","member/icourseLogin.html":"b56a7cecfa11aba57d0d2cf1eed2e9bf","member/login.html":"62903ba8ad49471e0a5cad659a65772d","member/ursLogin.html":"38b005028c509ff139d29ce8c8b83899","module-live/src/component/live-manage-balance/component.html":"25a61449b1adc8b0e5e39696716e1eaf","module-live/src/component/live-manage-config/component.html":"34115e39a2bb96a711a1255f0dc501a9","module-live/src/component/live-manage-list/component.html":"ef322e91c61a0236990a2245c981c0d2","module-live/src/component/live-manage-list/obsStartDialogTpl.html":"5c4f0ebc1d13c5939d644588e1b36979","module-live/src/component/live-mobile-chat/component.html":"56a760f86e8216076c36c2a4c79802b8","module-live/src/component/live-mobile-player/component.html":"37ceef60535336bec734a936dd34f3f4","module-live/src/component/live-pc-chat/component.html":"3b5f8782f9df41d7c5ce27870559bc00","module-live/src/component/live-pc-player/component.html":"5cca55578bf97e3c2e2691a71ebdd32b","module-live/src/live-manage/index.html":"6f7662a5abdc99e59d0a27fb4e8ab434","module-live/src/live-mobile/index.html":"eb5064306a9806459ae492e8324714e1","module-live/src/live-pc/index.html":"901a9fb048d7ba53397e050d0526528f","module-live-room/src/component/room-list-view/component.html":"f315e1e73fdf4fe7238b0870922da21c","module-live-room/src/live-room/index.html":"98e73e45698b6d46a2e63ab18f6cb35f","order/payOrder.html":"0f0115389f2df7cdd5bee3d7f108dbef","pay/donateCourse.html":"a99cb54ecfd6e202b30076105d202301","pay/order.html":"e7aac5b84ad24cb54cb945f4b7570ba8","scholarship2017/index/index.html":"b4596e788c550b1ef72c1113ad769564","scholarship2017/team/team.html":"6c142a495acec8a03a6c56d3e996179c","spoc/center/teacherCenter.html":"df14b93198802be43700991836d15ffc","spoc/center/universityCenter.html":"2e29e6fcbc995f1a2dbbbc3598475ce0","spoc/cloud/caseIntro.html":"86e0c57263508208a992b95727ca2252","spoc/cloud/courseResource.html":"74bcc3a3227618606ecae44d0d370cf6","spoc/cloud/help.html":"5c1e23fbc95c3ef04e0aa1877d9ea5ab","spoc/cloud/index.html":"cbbb145cb9d773a6069ac35f50986fbc","spoc/spoc.html":"358805d2b67ec72ebf7d53f00a9bdae6","teacherPage/course.html":"c9082872e9ecc3b223521e5550dca9c3","teacherPage/discuss.html":"91c1d463c95af85f0891832e179cc9e8","teacherPage/index.html":"d0bd78ed9a3fbe95f186343fc9d24d1c","vocation/vocation.html":"312653f2319a56fcd49d5fac137d4f13"}};</script>
+<script>
+var $$$nativeWindowKeys = ["postMessage","blur","focus","close","frames","self","window","parent","opener","top","length","closed","location","document","origin","name","history","locationbar","menubar","personalbar","scrollbars","statusbar","toolbar","status","frameElement","navigator","applicationCache","customElements","external","screen","innerWidth","innerHeight","scrollX","pageXOffset","scrollY","pageYOffset","screenX","screenY","outerWidth","outerHeight","devicePixelRatio","clientInformation","screenLeft","screenTop","defaultStatus","defaultstatus","styleMedia","onanimationend","onanimationiteration","onanimationstart","onsearch","ontransitionend","onwebkitanimationend","onwebkitanimationiteration","onwebkitanimationstart","onwebkittransitionend","isSecureContext","onabort","onblur","oncancel","oncanplay","oncanplaythrough","onchange","onclick","onclose","oncontextmenu","oncuechange","ondblclick","ondrag","ondragend","ondragenter","ondragleave","ondragover","ondragstart","ondrop","ondurationchange","onemptied","onended","onerror","onfocus","oninput","oninvalid","onkeydown","onkeypress","onkeyup","onload","onloadeddata","onloadedmetadata","onloadstart","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onpause","onplay","onplaying","onprogress","onratechange","onreset","onresize","onscroll","onseeked","onseeking","onselect","onstalled","onsubmit","onsuspend","ontimeupdate","ontoggle","onvolumechange","onwaiting","onwheel","ongotpointercapture","onlostpointercapture","onpointerdown","onpointermove","onpointerup","onpointercancel","onpointerover","onpointerout","onpointerenter","onpointerleave","onbeforeunload","onhashchange","onlanguagechange","onmessage","onmessageerror","onoffline","ononline","onpagehide","onpageshow","onpopstate","onrejectionhandled","onstorage","onunhandledrejection","onunload","performance","stop","open","alert","confirm","prompt","print","requestAnimationFrame","cancelAnimationFrame","requestIdleCallback","cancelIdleCallback","captureEvents","releaseEvents","getComputedStyle","matchMedia","moveTo","moveBy","resizeTo","resizeBy","getSelection","find","getMatchedCSSRules","webkitRequestAnimationFrame","webkitCancelAnimationFrame","btoa","atob","setTimeout","clearTimeout","setInterval","clearInterval","createImageBitmap","scroll","scrollTo","scrollBy","onappinstalled","onbeforeinstallprompt","caches","crypto","ondevicemotion","ondeviceorientation","ondeviceorientationabsolute","indexedDB","webkitStorageInfo","sessionStorage","localStorage","fetch","onauxclick","visualViewport","speechSynthesis","webkitRequestFileSystem","webkitResolveLocalFileSystemURL","openDatabase","chrome", '__REGULAR_DEVTOOLS_GLOBAL_HOOK__', '$$$nativeWindowKeysCheckMap', '$$$nativeWindowKeys', '$$$globalErrors'];
+var $$$nativeWindowKeysCheckMap = {},
+i = 0,
+l = $$$nativeWindowKeys.length;
+for (; i < l; i++) {
+$$$nativeWindowKeysCheckMap[$$$nativeWindowKeys[i]] = 1;
+}
+window.__globalErrorEvents = [];
+function errorEventHandler(e) {
+window.__globalErrorEvents.push(e);
+}
+function addEvent(el, ev, fn) {
+if (el) {
+if (el.addEventListener) {
+el.addEventListener(ev, fn);
+} else if (el.attachEvent) {
+el.attachEvent(ev, fn);
+}
+}
+}
+addEvent(window, 'error', errorEventHandler);
+delete window.addEvent;
+</script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libEs5Shim_5bbf31f93e60b15fb3bcb2ba8bdac626.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libEs6Shim_b1d0c40a89ec7748483661e8cf64e3ec.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libRegular_e3fc7f63ef5a597f84cc352c95c59683.js"></script>
+<script type="text/javascript" src="//ursdoccdn.nosdn.127.net/webzj_cdn101/pathb_message_17011101.js"></script>
+<script>
+window.gaProduct = "mooc";
+window.urlPrefix = {
+indexPrefix             : "/",
+homePrefix              : "/home.htm",
+loginPrefix             : "/member/login.htm",
+logoutPrefix            : "/passport/member/logout.htm",
+searchPrefix            : "/search.htm",
+courseListPrefix        : "/category/all",
+universityListPrefix    : "/university/view/all.htm",
+universityPrefix        : "/university/",
+universityPreviewPrefix : "/university/preview/",
+vocationIndexPrefix     : "/vemooc",
+courseInfoPrefix        : "/course/",
+courseInfoPreviewPrefix : "/course/preview/",
+courseLearnPrefix       : "/learn/",
+courseLearnPreviewPrefix: "/learn/preview/",
+courseLearnReviewPrefix : "/learn/review/",
+learnForTeacherPrefix   : "/learn/enroll/",
+spocMainPrefix          : "/spoc/schoolcloud/index.htm",
+spocCourseInfoPrefix    : "/spoc/course/",
+spocCourseLearnPrefix   : "/spoc/learn/",
+spocUsityIdPrefix       : "/spoc/university.htm?schoolId=",
+spocUniversityListPrefix      : "/university/view/all.htm",
+spocUniversityPrefix       	  : "/spoc/university/",
+spocUniversityPreviewPrefix   : "/spoc/university/preview/",
+spocMemberPrefix       		  : "/spoc/u/",
+spocMemberPreviewPrefix       : "/spoc/u/preview/",
+memberPrefix            : "/u/",
+memberPreviewPrefix     : "/u/preview/",
+addMemberInfoPrefix     : "//www.icourse163.org/member/addMemberInfo.htm",
+partnerSuperAdminPrefix : "/partnerAdmin/superAdmin.htm",
+partnerEditorAdminPrefix: "/partnerAdmin/editorAdmin.htm",
+adminManagerPrefix      : "/collegeAdmin/schoolPanel.htm",
+adminTeacherPrefix      : "/collegeAdmin/teacherPanel.htm",
+coursecreatePrefix      : "/collegeAdmin/courseCreate.htm",
+adminSetMessagePrefix   : "/collegeAdmin/setMessage.htm",
+adminSettingPrefix      : "/collegeAdmin/setting.htm",
+adminToolsPrefix        : "/collegeAdmin/tools.htm",
+termManagePrefix        : "/collegeAdmin/termManage/",
+reviewQuizPrefix        : "/review/quiz/{id}.htm",
+reviewHwPrefix          : "/review/hw/",
+reviewTrainPrefix       : "/review/train/",
+teacherMainEditPrefix   : "/user/teacherMainEdit.htm",
+personInfoSettingPrefix : "/user/setting/personInfoEdit.htm",
+accountSettingPrefix    : "/user/setting/accountSetting.htm",
+attachmentPrefix        : "/homework/attachment.htm",
+titleAttachmentPrefix   : "/question/title/attachment.htm",
+notSupportedPrefix      : "/common/errors/notSupported.htm",
+helpFrontPrefix         : "/help/help.htm",
+helpBackIndexPrefix     : "/help/helpIndex.htm",
+helpBackPrefix          : "/help/manageHelp.htm",
+scholarship2017TeamPrefix           : "/scholarship2017/team/team.htm",
+aboutUsPrefix           : "/about/aboutus.htm",
+contactUsPrefix         : "/about/contactus.htm",
+certApplyPrefix         : "/cert/apply.htm",
+certDesignPrefix        : "/cert/certDesign/{id}.htm",
+chargeCertDesignPrefix  : "/cert/chargeCertDesign/{id}.htm",
+payOrderPrefix          : "/pay/order.htm",
+donateCoursePrefix      : "/donate/course.htm",
+getTextPrefix           : "/resource/getText.htm",
+cdnReportPrefix			: '//study.163.com/about/cdnReport.htm',
+snsOAuthPrefix          : "/passport/sns/doOAuth.htm",
+ursAuthorPrefix         : "//www.icourse163.org/member/ursLogin.htm",
+thirdBindCallbackHref   : "//www.icourse163.org/logingate/urs/bindCallback.htm",
+icourseAuthorPrefix     : "//www.icourse163.org/member/icourseLogin.htm"
+};
+window.moocHost             = "icourse163.org";
+window.moocHref             = "//www.icourse163.org";
+window.moocStaticHost       = "mc.stu.126.net";
+window.callAppDownloadHref  = "//www.icourse163.org/client/callAppDownload.htm";
+window.NEJ_CONF = {
+clipboard: '//mc.stu.126.net/res/swf/nej_clipboard.swf?0eba83544b107d7207d8936baab41283'
+};
+
+window.serverTimeDiff = new Date().getTime() - 1525607564120;
+window.webUser = {
+id:"1136111566",
+nickName:"ykt1519893318334",
+roles:[
+],
+passport:"g586268@163.com",
+
+personalUrlSuffix:"ykt1519893318341",
+
+
+loginId:"g586268@163.com",
+loginType:"-1",
+
+email:"g586268@163.com",
+
+end_key:"end_value"
+};
+window.cert_owner = false;
+window.currentPageName = "mooccms";
+window.imageUrlMap = {
+loading_circle_gif:"//mc.stu.126.net/res/images/ui/loading_circle.gif?00ef871b291bc03a497d608a5bd8ec99",
+share_sprite:"//mc.stu.126.net/res/images/ui/shareUI.png?e2653a364a790663aed6c6ece19fd83a",
+ui_sprite:"//mc.stu.126.net/res/images/ui/ui_sprite.png?5f7eedcf69b8a05d3ed53b4c1918de1c",
+forum_icon_sprite:"//mc.stu.126.net/res/images/ui/forum_icon.png?b12539c2400cc76ad30262bdf7e12cbd",
+image_upload_swf:"//mc.stu.126.net/res/swf/imageUpload.swf?884965992b66cee07fb945929ac4b00f",
+image_pdf_swf:"//mc.stu.126.net/res/swf/pdfReader.swf?74ddf86a5d97e5af891638154a0989d1",
+image_video_swf:"//mc.stu.126.net/res/swf/moocPlayer.swf",
+img_upd_select_swf:"//mc.stu.126.net/res/swf/DragCutUpload_mooc.swf?ac94fb92d65cb0f12a93a8ca00fa3df9",
+img_default_big_head:"//edu-image.nosdn.127.net/457BE69DFFF1A6157EAF6D44EA2D8662.png?imageView&thumbnail=180y180&quality=100",
+img_default_small_head:"//mc.stu.126.net/res/images/common/headImg/small.jpg?06517f5e438da035a4016abd8e661d2f",
+img_default_unviersity_1:"//mc.stu.126.net/res/images/common/default/university1.png?55bbec907070a55ee4d333bc645445d1",
+img_default_unviersity_2:"//mc.stu.126.net/res/images/common/default/university2.png?a00032f80fa68a6ea6135ee8df9ed7a4",
+img_default_unviersity_3:"//mc.stu.126.net/res/images/common/default/university3.png?63f350451049f7803b014abab9408a4d",
+img_default_unviersity_cert:"//mc.stu.126.net/res/images/common/default/universityCert.png?4c209d5c5ebddc91e80fcf34795ddae1",
+img_default_course:"//mc.stu.126.net/res/images/common/default/course.jpg?2bc75b250fac482eabbcbc071b94abd4",
+img_default_signature:"//mc.stu.126.net/res/images/common/signature_example.png?a15f9c690bfd58771de32d5c483dea59",
+img_step_score_mail:"//mc.stu.126.net/res/images/common/step_score_mail.jpg?201e015a404c3c7aef85de694a4b6622"
+};
+window.swfUrlMap = {
+CloudPlayer:"//mc.stu.126.net/res/swf/eduPlayer.swf?44b31cc78f39b70739b248ddfc803915",
+cloudPlayerUI:"//mc.stu.126.net/res/swf/cloudPlayerUI.swf?83eaf96a4fa93df776e734c42d59ecc6"
+}
+window.URSLoginConfig = {
+product : 'imooc',
+promark : 'cjJVGQM',
+host : 'www.icourse163.org',
+cookieDomain : 'icourse163.org',
+skin : 3,
+page : 'login',
+needUnLogin : 1 ,
+defaultUnLogin:1,
+placeholder : {account:'常用邮箱或网易邮箱',pwd:'密码'},
+needPrepare: 1,
+regUrl : '//zc.reg.163.com/regInitialized?pd=imooc&pkid=YeaYYzQ&pkht=www.icourse163.org',
+coverBackground : "background:-webkit-radial-gradient(center,rgba(0,0,0,0.3),#000 75%);",
+single : 1,
+cssDomain : '//cmc.stu.126.net/u/css/cms/',
+cssFiles : 'urs4moocweb.css',
+frameSize : {'width':380,'height':282},
+logincb : function(cb){}
+};
+</script>
+<script type="text/javascript">
+window.isMobilePhone = "false";
+window.gaTrackPageview = '_trackPageview';
+window.gaTrackEvent = '_trackEvent';
+window.gaqStr = '_gaq';
+window.m_shareUrl = "";
+var _ua = 'UA-35176345-3';
+// var _ua = 'UA-35176345-8'; //fix http://jira.netease.com/browse/MOOC-3603
+window._gaq = [];
+window._gaq.push(['_setAccount', _ua],['_setLocalGifPath', '/' + _ua + '/__utm.gif'],['_setLocalRemoteServerMode']);
+window._gaq.push(['_addOrganic', 'm.baidu.com', 'word']);
+window._gaq.push(['_addOrganic', 'soso', 'search']);
+window._gaq.push(['_addOrganic', 'sogou', 'query']);
+window._gaq.push(['_addOrganic', 'haosou', 'q']);
+window._gaq.push(['_addOrganic', 'youdao', 'q']);
+window._gaq.push(['_addOrganic', 'chinaso', 'q']);
+window._gaq.push(['_addOrganic', 'zhongsou', 'w']);
+window._gaq.push(['_addOrganic', 'm.sp.sm.cn', 'w']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = '//wr.da.netease.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!--[if lt IE 9]>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/common/libH5Shiv_f4d9dea8e0ae8455500862bbb874d63c.js"></script>
+<![endif]-->
+<script src="//hubble-js-bucket.nosdn.127.net/DATracker.sync.1.5.0.js"></script>
+<script>
+//初始化
+DATracker.init('MA-A976-948FFA05E931', {
+use_app_track: true,
+heatmap: {
+isTrackLink: true
+}
+})
+</script></head>
+<link rel="stylesheet" href="//mc.stu.126.net/pub/s/web/pt_cms_moocCmsWithHead_55635f28c83bbcaf29ff72fcee516bbf.css"/>
+<body>
+<div id="j-activityBanner" class="f-dn ga-click" data-cate="小黄条" data-action="点击" style="position:relative;z-index:300;"></div>
+<div id="j-activityRightBanner" class="ga-click" style="position:fixed;z-index:300;text-align:right;right: 16px;bottom:143px;"></div>
+<div id="j-appbanner" style="position:relative;z-index:300;"></div>
+<div id="g-container">
+<div class="web-nav-container">
+<div class="m-navTop-func">
+<div class="m-navTop-func-i">
+<div class="u-navLogin-container">
+<div class="u-navLogin-logo"><a href="//www.icourse163.org" target="_top"><img width="190" height="28" src="//edu-image.nosdn.127.net/C0124E0336721FF65563B76A16A8143F.png?imageView&thumbnail=190y28&quality=100"></a></div>
+<div class="e-hover-source u-navLogin-course"><a href="//www.icourse163.org/category/all" target="_top"><span class="nav">课程</span></a>
+<div class="e-hover-target">
+<div class="e-hover-arrow"></div>
+<div class="e-hover-arrow-border"></div>
+<div class="e-hover-content">
+<div class="j-nav-CateBox u-cateBox-container"></div>
+</div>
+</div>
+</div>
+<div class="u-navLogin-school"><a href="//www.icourse163.org/university/view/all.htm" target="_top"><span class="nav">名校</span></a></div>
+<div class="u-navLogin-loginBox">
+<div class="u-navLogin-loginBox-i">
+<div class="m-navlinks" id='j-topnav'>
+<div class="login f-cb">
+<div class="info f-pr j-nav-info-box">
+<div class="face f-fl f-thide">
+<a class="" href="/home.htm?userId=1136111566" target="_self">
+<img class="" id="my-img" src="//edu-image.nosdn.127.net/457BE69DFFF1A6157EAF6D44EA2D8662.png?imageView&thumbnail=180y180&quality=100" width="30" height="30" alt="ykt1519893318334">
+</a>
+</div>
+<div class="j-nav-set sets" style="display:none">
+<div class="e-hover-arrow"></div>
+<div class="e-hover-arrow-border"></div>
+<ul class="set">
+<li class="text"><span class="f-fc9">正使用“网易邮箱”帐号登录</span></li>
+<li class="f-dn j-my-live"><a class="f-fc6 ga-click" data-cate="导航栏" href="/live/liveRoom.htm" data-action="头像下点击" target="_blank">我的直播</a></li>
+<li class="j-cert-card" style="display:none;"><a class="f-fc6" href="/home.htm?userId=1136111566#/home/mycert" target="_blank">我的认证证书</a></li>
+<li class="j-partner-man" style="display:none;"><a class="f-fc6" href="/partnerAdmin/superAdmin.htm" target="_blank">高教社管理员</a></li>
+<li class="j-editor-man" style="display:none;"><a class="f-fc6 j-editor-txt" href="/partnerAdmin/editorAdmin.htm" target="_blank"></a></li>
+<li class="j-school-man" style="display:none;"><a class="f-fc6" href="/collegeAdmin/schoolPanel.htm" target="_blank">高校管理后台</a></li>
+<li class="j-bsite" style="display:none;"><a class="f-fc6" href="/bsite/list.htm" target="_blank">站点管理</a></li>
+<li class="j-postgrade-man" style="display:none;"><a class="f-fc6" href="/collegeAdmin/postgradExamSchoolPanel.htm" target="_blank">考研高校管理后台</a></li>
+<li class="j-teacher-man" style="display:none;"><a class="f-fc6" href="/collegeAdmin/teacherPanel.htm" target="_blank">课程管理后台</a></li>
+<li class="j-kaoyan-order" style="display:none;"><a class="f-fc6" href="/collegeAdmin/kaoyanOrder.htm" target="_blank">考研订单</a></li>
+<li class="j-teacher-main" style="display:none;"><a class="f-fc6" href="/u/ykt1519893318341" target="_blank">老师主页</a></li>
+<li><a class="f-fc6" href="/user/setting/personInfoEdit.htm" target="_blank">设置</a></li>
+<li class="exit"><a class="f-fc6" href="/member/logout.htm" >退出</a></li>
+</ul>
+</div>
+</div>
+<div class="j-passportforplug" style="display:none;">g586268@163.com</div>
+<div class="arrow"></div>
+</div>
+</div></div>
+</div>
+<div class="ga-click u-navLogin-myCourse" data-cate="首页_头部导航" data-action="个人中心">
+<div class="u-navLogin-myCourse-t">
+<div class="ga-click u-navLogin-myCourse u-navLogin-center-container" data-cate="首页_头部导航" data-action="个人中心"><a href="//www.icourse163.org/home.htm?userId=1136111566" target="_top"><span class="nav">个人中心</span></a></div>
+</div>
+</div>
+<div class="u-navLogin-searchFunc">
+<div class="u-navLogin-searchFunc-i">
+<div class="j-search-box u-search-container">
+<div class="j-input u-search-input"></div>
+<div class="u-search-icon"><span class="u-icon-search2 j-searchBtn"></span></div>
+</div>
+</div>
+</div>
+<div class="e-hover-source u-navLogin-appText"><a href="//www.icourse163.org/mobile.htm?from=navibar&mobiletopbar=hidden" target="_top"><span class="nav">客户端</span></a>
+<div class="e-hover-target">
+<div class="e-hover-arrow"></div>
+<div class="e-hover-arrow-border"></div>
+<div class="e-hover-content">
+<div class="u-app-download-container">
+<div class="u-app-tip"><span>扫码下载官方APP</span></div>
+<div class="u-app-qrcode"><img width="140" height="140" src="//img-ph-mirror.nosdn.127.net/Rg6muO26iMOFWx9vwEHC-g==/6630234335885341999.png"></div>
+<div class="u-app-iphone-link"><a href="//itunes.apple.com/cn/app/id977883304" target="_blank"></a></div>
+<div class="u-app-android-link"><a href="//study.163.com/pub/ucmooc/ucmooc-android-official.apk" target="_blank"></a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="u-navLogin-app"><img width="13" height="21" src="//edu-image.nosdn.127.net/03CC83FA97B35119DFB8C772754765CC.png?imageView&thumbnail=13y22&quality=100"></div>
+<div class="u-navLogin-discuss"><a href="//kaoyan.icourse163.org" target="_top"><span class="nav">2019考研</span></a></div>
+<div class=" u-navLogin-cloud">
+<a href="//www.icourse163.org/spoc/schoolcloud/index.htm" target="_blank"><span class="nav">学校云</span></a>
+</div>
+<div class="j-kaoyan-link u-navLogin-kaoyan">
+<a href="//www.icourse163.org/forum/1001974001.htm" target="_blank"><span class="nav">学 · 问</span></a></div>
+<div class="j-latest-mark u-navLogin-mark f-f0 f-dn"><span>新</span></div>
+</div>
+</div>
+</div>
+</div><div id="g-body">
+    <script type="text/javascript" src="https://cst.stu.126.net/u/js/cms/specialWebCommon.0.1.js?_v=1496922024770"></script>
+    <script>
+        (function(jq, g) {
+            //toMobile
+            if($.isMobile()){
+                window.location.href=window.location.href="https://www.icourse163.org/topics/specialMoocCAP_m/";
+            }
+         })(jQuery, window);
+    </script>
+    <link type="text/css" rel="stylesheet" href="https://cst.stu.126.net/u/css/cms/specialWebCommonStyle.0.1.css?_v=1496922024770">
+    <style>@charset "UTF-8";body{padding:0 0 300px}#g-body{padding-bottom:208px}.m-body{font-family:"Microsoft YaHei"!important}.m-body .g-wrap{width:1204px;margin:0 auto}.m-body .m-part1{height:400px;background:#f3df48 url(https://nos.netease.com/edu-image/ABEFAAEEF5A3707C026A1BD100E60F6A.jpg) no-repeat}.m-body .m-part1 .title{width:686px;margin:0 auto;padding-top:80px}.m-body .m-part1 .title img{width:100%}.m-body .m-part1 .arrow{width:36px;left:50%;margin-left:-18px;bottom:120px}.m-body .m-part1 .video{width:320px;height:160px;left:50%;margin-left:-160px;bottom:-80px}.m-body .m-part1 .video img{width:100%;cursor:pointer}.m-body .m-part1 .video .palyvedio{width:50px;height:50px;top:-107px;left:50%;margin-left:-25px}.m-body .m-part2{height:396px;background:#f4f4f4 url(https://nos.netease.com/edu-image/D04906F9AD43D47CBF88BEA66045DB17.jpg) no-repeat;text-align:center}.m-body .m-part2 .height128{height:128px}.m-body .m-part2 .center{width:420px;margin:0 auto 20px}.m-body .m-part2 .center img{width:100%}.m-body .m-part2 .tip{cursor:pointer;color:#84b706}.m-body .m-part2 p{color:#333}.m-body .m-part3{height:500px;background-color:#fff;border:10px solid #f5f5f5}.m-body .m-part3 .left{padding-top:126px;width:532px;text-align:right}.m-body .m-part3 .left .title{width:240px;text-align:right}.m-body .m-part3 .left .title img{width:100%}.m-body .m-part3 .left .context{margin-top:25px;color:#666;line-height:26px}.m-body .m-part3 .right{padding-top:76px;width:542px;margin-right:30px;text-align:center}.m-body .m-part3 .right .title{width:100%;margin-bottom:16px}.m-body .m-part3 .right .title img{width:100%}.m-body .m-part3 .right .context{color:#999;line-height:20px}.m-body .m-part4{height:500px;background-color:#fff}.m-body .m-part4 .title{width:774px;margin:0 auto;padding-top:72px}.m-body .m-part4 .content{margin-top:60px}.m-body .m-part4 .content .item{width:256px;height:200px;text-align:center}.m-body .m-part4 .content .item img{width:160px;left:50%;margin-left:-80px}.m-body .m-part4 .content .item .info{width:200px;top:175px;left:50%;margin-left:-100px;color:#666;line-height:22px}.m-body .m-part4 .content .item1 img{top:30px}.m-body .m-part4 .content .width60{margin-right:60px}.m-body .m-part4 .slide{animation:slide .5s;-webkit-animation:slide .5s}.m-body .m-part4 .slideLate{animation:slide 1s ease-in-out 1s;-webkit-animation:slide 1s ease-in-out 1s}@keyframes slide{from{top:200px}to{top:190px}}@-webkit-keyframes slide{from{top:200px}to{top:180px}}@keyframes slideInfo{from{top:250px}to{top:200px}}@-webkit-keyframes slideInfo{from{top:250px}to{top:200px}}@keyframes tlSlide{from{top:250px}to{top:200px}}@-webkit-keyframes tlSlide{from{top:250px}to{top:200px}}.m-body .m-part5{background-color:#f5f5f5;padding-bottom:50px}.m-body .m-part5 .head{width:1135px;margin:0 auto;padding-top:90px}.m-body .m-part5 .tab{width:1135px;margin:38px auto 0}.m-body .m-part5 .tab .tabItem{width:160px;height:50px;line-height:50px;color:#2e323e;font-size:20px;background-color:#fff;margin:0 12px 10px 0;text-align:center;border-radius:20px;cursor:pointer}.m-body .m-part5 .tab .tabItem:hover{background-color:#f5e149;font-weight:700}.m-body .m-part5 .tab .active{background-color:#f5e149;font-weight:700}.m-body .m-part5 .tab .width8{margin-right:8px}.m-body .m-part5 .card{width:1135px;margin:30px 0 0 39px}.m-body .m-part5 .card .cardItem{margin-right:15px;margin-bottom:56px;width:360px}.m-body .m-part5 .card .cardItem img{width:360px;height:205px}.m-body .m-part5 .card .cardItem .name{font-size:22px;color:#333;margin:15px 0 20px;width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.m-body .m-part5 .card .cardItem .name a{color:#333}.m-body .m-part5 .card .cardItem .info{font-size:16px;color:#999}.m-body .m-part5 .card .cardItem .info img{width:13px;height:15px;margin:0 6px 0 12px}.m-body .m-part5 .card .cardItem .info .credit{font-size:12px;line-height:16px;background-color:#5fa004;color:#fff;border-radius:8px;padding:0 5px;margin-left:10px}.m-body .m-part5 .u-special-pager{color:#999}.m-body .m-part5 .u-special-pager a{border:1px solid #ddd;background-color:#fff}.m-body .m-part5 .u-special-pager a:hover{background-color:#70ad00}.m-body .m-part5 .u-special-pager .pagerBtn:hover{background-color:#fff}.m-body .m-part5 .u-special-pager .cur{background-color:#70ad00}.m-body .m-part6{background-color:#fff;padding-bottom:60px}.m-body .m-part6 .part6-wrap{width:900px;margin:0 auto}.m-body .m-part6 .title{padding-top:96px}.m-body .m-part6 .pad{margin-top:40px}.m-body .m-part6 .pad .padItem{width:395px;height:150px;padding:25px 25px 50px;background-color:#f5f5f5;margin:0 2px 2px 0}.m-body .m-part6 .pad .padItem .question{font-size:24px;color:#333}.m-body .m-part6 .pad .padItem .answer{margin-top:18px;font-size:12px;line-height:21px;color:#666}.m-body .m-part6 .pad .padItem:hover{background-color:#f5e149}.m-body .m-part6 .link{display:block;color:#84b706;margin-top:15px}.m-sp-videoplay{width:800px;height:500px}.m-sp-videoplay .queItem{margin-top:36px;height:500px}.m-sp-videoplay .queItem .vv{height:100%}.u-special-dialog .close{position:absolute;z-index:1;right:10px;top:10px;width:22px;height:22px;background:url(https://img0.ph.126.net/5hN9-JkBQe870w2rEyby1Q==/2448269347447608525.png)}</style>
+    <style></style>
+    
+    <div class="m-body">
+        <div class="m-part1 f-pr" style='background-color: ;background: url(https://edu-image.nosdn.127.net/67C666CC36F718E686B9BECE4A8D395F.png?imageView&amp;thumbnail=1920y400&amp;quality=100) no-repeat'>
+            <div class=""></div>
+            <div class="title">
+                <!--<img src="https://nos.netease.com/edu-image/F8B3DD12692157F041BB08181CBBF3CA.png">-->
+                <img src='https://edu-image.nosdn.127.net/E4FA8E8AFBC3D415FF154855581D9DDF.png?imageView&amp;thumbnail=686y170&amp;quality=100'>
+            </div>
+            <div class="arrow f-pa">
+                <!--<img src="https://nos.netease.com/edu-image/2AD97430B4C67ED5CB3EAC3932C0D3E2.png" alt="arrow">-->
+                <img src='https://edu-image.nosdn.127.net/B7571A8F5C3711C2E1FC04F9F8E7A5CA.png?imageView&amp;thumbnail=38y28&amp;quality=100' alt="arrow">
+            </div>
+            <div class="video j-src f-cb f-pa" data-swfsrc='https://v.stu.126.net/mooc-video/nos/mp4/2016/06/03/1004478050_3d16bc9a5a2041f1af226febcfd5c36d_sd.mp4?ak=de76e04680da4199c2a242f0cc735129c062ef7b2d4ff3e0ab34e79278ec61136a83af42d7f08a2bd95dfc0b237238ed54dcd1280de3567a34eb7c30d823c007a3bee7c6106ab552ec76fa21634dda12d946cc99125d5cf199a7eb88f34ab25df0837682774232610f0d4e39d8436cb9a153bdeea4a2bfbae357803dfb6768a742fe395e87eba0c3e30b7b64ef1be06585111bf60ea26d5dad1f891edd9e94a8e167e0b04144490499ffe31e0d97a0a1babcbd7d2e007d850cc3bf7aa697e8ff'>
+                <div class="v-img">
+                    <img class="" src='https://nos.netease.com/edu-image/5B39822B1B34319967486091B96E3494.png'>
+                    <img class="palyvedio j-palyvedioBtn f-pr" src="https://nos.netease.com/edu-image/66D27F0977FF83F887FA71FD33153CD9.png" data-category="specialMoocCAP" data-action="click" data-label="观看数量">
+                </div>
+            </div>
+        </div>
+        <div class="m-part2" id="m-part2"  style='background-color: ;background: url(https://edu-image.nosdn.127.net/B6E04FC34D5F4EB535DF37B827F90434.png?imageView&amp;thumbnail=1920y396&amp;quality=100) no-repeat'>
+            <div class="height128"></div>
+            <div class="center">
+                <img src="https://nos.netease.com/edu-image/C8A40BDAAE0CC97E68636F58FDACAA32.png">
+            </div>
+            <p>携手浙江大学、湖南大学、哈尔滨工业大学、国防科学技术大学等16所知名大学为您开设中国大学先修课的MOOC学习课程。   <a href="#m-part5" class="tip">查看全部课程 &gt;&gt;</a></p>
+        </div>
+        <div class="m-part3" id="m-part3">
+            <div class="g-wrap f-cb">
+                <div class="left f-fl">
+                    <div class="f-cb">
+                        <img class="f-fr" src="https://nos.netease.com/edu-image/5F9AF0129D660681514138DADBB3F7C2.png">
+                    </div>
+                    <div class="context">
+                        <p>中国大学先修课简称CAP（China Advanced Placement），旨在使学有余力的高中生能根据自身的兴趣和能力自主选择、自愿学习，提前接受大学的思维方式和学习方法，发展在学科专业学习和研究方面的潜能，帮助其为大学学习乃至未来的职业生涯做好准备的课程。</p>
+                    </div>
+                </div>
+                <div class="right f-fr">
+                    <div class="title f-dn" id="imgId">
+                        <img src="https://nos.netease.com/edu-image/DFA3A52C11A6B30E9C0270F5C194D817.png">
+                    </div>
+                    <div class="context f-dn" id="tipId">
+                        <p>2014年9月至今，清华附中、人大附中、北京四中等 103 所中</p>
+                        <p>学加入了项目试点进行了CAP线下教学试点工作，总计约</p>
+                        <p>15000 名高中生学习了CAP课程。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="m-part4" id="m-part4">
+            <div class="g-wrap">
+                <div class="title">
+                    <img src="https://nos.netease.com/edu-image/A59CD0FF82B06655B4B7745BF73B6934.png?imageView&thumbnail=770y93&quality=100" alt="">
+                </div>
+                <ul class="content f-cb">
+                    <li class="item item1 width60 f-fl">
+                        <div class="f-pr">
+                            <img class="f-pa f-dn" id="imgSwf1" src="https://nos.netease.com/edu-image/93266DB2846854B428E5A3C60FE755F2.png" alt="">
+                            <div class="info f-pa f-dn" id="info1">
+                                <p>在线学习心仪大学先修课程，为<br/>未来发展方向助力</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="item width60 f-fl">
+                        <div class="f-pr">
+                            <img class="f-pa f-dn" id="imgSwf2" src="https://nos.netease.com/edu-image/8CF033AD86BB85FFA0F50C7EDDB96E44.png" alt="">
+                            <div class="info f-pa f-dn" id="info2">
+                                <p>中学向大学教学模式过渡，转换<br/>教学模式，培养思想方法</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="item width60 f-fl">
+                        <div class="f-pr">
+                            <img class="f-pa f-dn" id="imgSwf3" src="https://nos.netease.com/edu-image/62664BBA40DF8F2CBC15E17118665AD3.png" alt="">
+                            <div class="info f-pa f-dn" id="info3">
+                                <p>培养自主学习、学科特长、积累<br/>创新能力</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="item f-fl">
+                        <div class="f-pr">
+                            <img class="f-pa f-dn" id="imgSwf4" src="https://nos.netease.com/edu-image/BA57CC1B2672252706157B8D61748597.png" alt="">
+                            <div class="info f-pa f-dn" id="info4">
+                                <p>获得MOOC成绩，公平、公开地<br/>认证学校学分</p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+        <div class="m-part5">
+            <div class="g-wrap">
+                <div class="head">
+                    <img id="m-part5" src="https://nos.netease.com/edu-image/F543C88AB0E7212348402F2677EC5D21.png" alt="">
+                </div>
+                <ul class="tab f-cb"></ul>
+                <ul class="card f-cb"></ul>
+                <div id="j-pager"></div>
+            </div>
+        </div>
+        <div class="m-part6">
+            <div class="g-wrap">
+                <div class="part6-wrap">
+                    <div class="title">
+                    <img src="https://nos.netease.com/edu-image/1AE61F0A1593A52325F4B0186B4A6BFE.png" alt="">
+                </div>
+                <ul class="pad f-cb">
+                    
+                    <li class="padItem f-fl">
+                        <div class="question">Q：什么是CAP？</div>
+                        <div class="answer">A：中国大学先修课简称CAP（China Advanced Placement），旨在使学有余力的高中生能根据自身的兴趣和能力自主选择、自愿学习，提前接受大学的思维方式和学习方法，发展在学科专业学习和研究方面的潜能，帮助其为大学学习乃至未来的职业生涯做好准备的课程。“中国大学先修课程（CAP）试点项目”由中国教育学会联合高等教育出版社共同发起，联合国内各高水平大学共同推出，在“中国大学MOOC”独家上线，专供大学前学生进行选择、学习。</div>
+                    </li>
+                    
+                    <li class="padItem f-fl">
+                        <div class="question">Q：学完某CAP课程，如何参加中国教育学会的线下考试？</div>
+                        <div class="answer">A：目前中国教育学会CAP项目办公室在全国27个省市自治区直辖市开设了41个考点，学习特定课程并达到对应要求的学习者可以通过爱课程网报名系统报名参加CAP线下考试。</div>
+                    </li>
+                    
+                    <li class="padItem f-fl">
+                        <div class="question">Q：学完某CAP课程，能否得到大学的学分？</div>
+                        <div class="answer">A：在本站报名并学习课程，根据每个大学要求不同，目前认证学分有以下三种途径： 1）成绩达标，入学该大学后可换兑学分； 2）参加线下中国教育学会举办的CAP考试，成绩达标，入学该大学后可换兑学分； 3）参加大学自主举办的CAP考试，成绩达标，入学该大学后可换兑学分。</div>
+                    </li>
+                    
+                    <li class="padItem f-fl">
+                        <div class="question">Q：学完课程，可以获得证书吗？</div>
+                        <div class="answer">A：和其他MOOC课程一样，CAP课程的证书也分为免费证书和收费认证证书两类。免费证书为电子版，不用单独申请，如果达到合格以上的要求，会自动获得。收费认证证书除电子版外，会增加一个纸质版，证书上含有二维码和证书编号，可以在线验证真伪，最终通过快递寄送。收费认证证书一般在课程结束，公布成绩后打开申请，请有意申请的同学留意通知。</div>
+                    </li>
+                    
+                </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        /* 分享 */
+(function (jq, g) {
+    // 初始化侧边栏
+    jq.initSlider({
+        notshow : false,
+        gzUrl : 'https://weibo.com/icourse163' // 关注链接
+    });
+
+    // 初始化页面分享，description已经去掉
+    window.shareObj = jq.initPageShare({
+        title: '中国大学MOOC重磅推出16所大学先修课程（CAP） ，专为高中生定制的大学课程！高三假期不荒废，大学课程抢先修！获得证书还能抵扣学分哦~', // 只用于微博
+        pic: 'https://nos.netease.com/edu-image/08BF11A617DD93F8641BFEAB046BDFF0.jpg?imageView&amp;thumbnail=300y300&amp;quality=100', // 只用于微博
+        mTitle : '中国大学MOOC推出专为高中生定制的大学先修课程，获得证书还能抵扣学分！', // 微信、易信分享标题
+        mDescription : '高三假期不荒废，大学课程抢先修！', // 微信、易信分享的文案：主要用于人人网 开心网
+        mPic  : 'https://nos.netease.com/edu-image/08BF11A617DD93F8641BFEAB046BDFF0.jpg?imageView&amp;thumbnail=300y300&amp;quality=100', // 微信、易信分享的图片
+        url: '', // 微信、易信分享的图片, // 分享的链接，为空则取当前页面地址
+        weixinQR: 'https://nos.netease.com/edu-image/38EABC20DEC1580BE097D49929F33E5E.png?imageView&amp;thumbnail=300y300&amp;quality=100', // 微信分享二维码
+        from: '' // ga事件里面需要区分，暂时没有该功能
+    });
+
+})(jQuery, window);
+
+    </script>
+    <script type="text/javascript">
+        /* index js */
+(function (jq, g) {
+   	jq(document).ready(function(jq) {
+   		var j=0;
+   		var _creditCourseIdList = [];
+   		/*请求认证学分的课程列表*/
+   		function getAuthedCourseList(){
+   			var url ="https://www.icourse163.org/getCreditCourseIds.htm";
+	       		jq.get(url, function(_data){
+		    		 _creditCourseIdList = JSON.parse(_data).split(';');
+			    });		
+   		}
+   		function isAuthedCourse(_courseId){
+   			var authed = false;
+   			$.each(_creditCourseIdList,function(index,value){
+   				if(_courseId==parseInt(value)){
+   					return authed = true;
+   				}
+   			})
+   			return authed;
+   		}
+	   	/* 请求tab数据 */
+		function getTabData(){	
+			var url ="https://www.icourse163.org/getCAPCategory.htm";
+	        jq.get(url, function(_data){
+	    		var _tabHtml = "<li class='tabItem f-fl' data-tabId=''>全部科目</li>",
+		    	_tabList = JSON.parse(_data);
+		    	if(!!_tabList && _tabList.length>0){
+			    for(var i=0; i<_tabList.length; i++){
+			    	_tabHtml += "<li class='tabItem f-fl' data-tabId="+_tabList[i].id+">"+_tabList[i].name+"</li>";
+			    }
+			    $(".tab").html(_tabHtml);
+			    swicthTab();
+			    $(".tab .tabItem").first().trigger("click");
+			}    
+		    });		    
+		};
+
+		/* 请求课程卡片数据 */
+		function getCourseCardData(_tabId,_pageIndex,_targ){
+			var url ="https://www.icourse163.org/getCoursesByCAPCategoryId.htm?categoryId="+_tabId+"&p="+_pageIndex+"&psize=9";
+			j++;
+			jq.get(url, function(_data){
+	    		var _tempHtml = "",
+	    			_dataList = JSON.parse(_data),
+					_courseList = _dataList.result,
+					_pagination = _dataList.pagination;
+				
+				if( _targ == true){
+					initPager(_tabId,_pagination.totlePageCount);
+				}
+			if(!!_courseList && _courseList.length>0) {
+				for(var i=0; i<_courseList.length; i++){
+			    		if(isAuthedCourse(_courseList[i].id)){
+						_tempHtml += "<li class='cardItem f-fl'>"+
+				    				"<a target='_blank' href="+"https://www.icourse163.org/course/"+_courseList[i].schoolPanel.shortName+"-"+_courseList[i].id+"><img src="+_courseList[i].imgUrl+"></a>"+
+				    				"<div class='name'><a target='_blank' href="+"https://www.icourse163.org/course/"+_courseList[i].schoolPanel.shortName+"-"+_courseList[i].id+">"+_courseList[i].name+"</a></div>"+
+			    					"<div class='info f-cb'>"+
+			    						"<a class='f-fc9' target='_blank' href="+"https://www.icourse163.org/university/"+_courseList[i].schoolPanel.shortName+">"+_courseList[i].schoolPanel.name+"</a>"+
+			    						"<span class='credit'>认证学分</span>"+
+			    					"</div>"+
+				    			"</li>";
+					}else{
+						_tempHtml += "<li class='cardItem f-fl'>"+
+				    				"<a target='_blank' href="+"https://www.icourse163.org/course/"+_courseList[i].schoolPanel.shortName+"-"+_courseList[i].id+"><img src="+_courseList[i].imgUrl+"></a>"+
+				    				"<div class='name'><a target='_blank' href="+"https://www.icourse163.org/course/"+_courseList[i].schoolPanel.shortName+"-"+_courseList[i].id+">"+_courseList[i].name+"</a></div>"+
+			    					"<div class='info f-cb'>"+
+			    						"<a class='f-fc9' target='_blank' href="+"https://www.icourse163.org/university/"+_courseList[i].schoolPanel.shortName+">"+_courseList[i].schoolPanel.name+"</a>"+
+			    					"</div>"+
+				    			"</li>";
+					}
+			    	};
+			}
+	            	
+		    	$(".card").html(_tempHtml);
+		    	if(j>1){
+		    		location.hash='';
+		    		location.hash='#m-part5';
+		    	}
+		    	
+		    });			    
+		};
+		
+
+	    /* 选中tab */
+	    function swicthTab(){
+	    	var iscurs = jq('.tab .tabItem');
+			iscurs.each(function(index, item) {
+		   		jq(item).click(function(){
+		   			for(var i = 0, len=iscurs.length; i < len; i ++){
+				   		if(!!jq(iscurs[i]).hasClass("active")){
+				   			jq(iscurs[i]).removeClass("active");
+				   		}
+				   	}
+		   			jq(iscurs[index]).addClass("active");
+
+					var tabId = jq.trim(jq(item).data('tabid'));
+					getCourseCardData(tabId,1,true);
+				});
+		   	});
+	    }
+		
+		/* 播放视频 */
+		function palyVideo(){
+			var _palyvedioBtn = jq('.j-palyvedioBtn');
+			//播放按钮hover
+			_palyvedioBtn.mouseover(function(){
+				_palyvedioBtn.attr("src","https://nos.netease.com/edu-image/EF6EA39533B56C35D434196BAE4D19EF.png");
+			});
+			_palyvedioBtn.mouseout(function(){
+				_palyvedioBtn.attr("src","https://nos.netease.com/edu-image/66D27F0977FF83F887FA71FD33153CD9.png");
+			});
+
+			//视频弹窗播放
+			_palyvedioBtn.click(function(event) {
+				var vn = jq('.j-src');
+				var videoSrc = jq.trim(vn.data('swfsrc'));
+				jq.showVideoDialog(videoSrc);
+			});
+
+			//视频打点事件
+		    _palyvedioBtn.click(function(){
+		        var _category = $(this).attr('data-category');
+		        var _action = $(this).attr('data-action');
+		        var _label = $(this).attr('data-label');
+
+		        $.trackEvent(_category, _action, _label);
+		    });
+		}
+
+		/* 分页组件初始化 */
+	    function initPager(_tabId,_pagination){
+	        var pager_options = {
+	            parent:"#j-pager",          
+	            pre: "上一页",
+	            preClass: "pagerBtn",
+	            next: "下一页",
+	            nextClass: "pagerBtn",
+	            fn : function(p, pn){
+	            	getCourseCardData(_tabId,p,false);                      
+	               	pager.reset(p, pn);
+	            }
+	        };
+
+	        var pager = jq.createPager(pager_options);
+	        pager.reset(1,_pagination);
+	    }
+	    /* 添加动画 */
+	    $(window).scroll(function() {
+			var scrollY = $(document).scrollTop();
+			if (scrollY > 280){
+				if(jq('#imgId').hasClass('tlSlide')){
+					jq('#imgId').removeClass('tlSlide');
+				}
+				if(jq('#tipId').hasClass('tlSlide')){
+					jq('#tipId').removeClass('tlSlide');
+				}
+				jq('#imgId').show();
+				jq('#imgId').addClass("animated fadeInRight");
+				setTimeout(function(){
+					jq('#tipId').show();
+					jq('#tipId').addClass("animated fadeInRight");
+				},500);
+			}
+
+			if(scrollY > 800){
+				var _imgSwfs = jq('.imgSwf');
+				for(var i = 0, len=_imgSwfs.length; i < len; i ++){
+			   		if(!!jq(_imgSwfs[i]).hasClass("animated bounceIn")){
+			   			jq(_imgSwfs[i]).removeClass("animated bounceIn");
+			   		}
+			   	}
+
+			   	jq('#imgSwf1').show();
+				jq('#info1').show();
+				jq('#imgSwf1').addClass('animated bounceIn');
+				jq('#info1').addClass('animated bounceIn');
+
+				setTimeout(function(){
+					jq('#imgSwf2').show();
+					jq('#info2').show();
+					jq('#imgSwf2').addClass('animated bounceIn');
+					jq('#info2').addClass('animated bounceIn');
+				},300);
+
+				setTimeout(function(){
+					jq('#imgSwf3').show();
+					jq('#info3').show();
+					jq('#imgSwf3').addClass('animated bounceIn');
+					jq('#info3').addClass('animated bounceIn');
+				},600);
+				setTimeout(function(){
+					jq('#imgSwf4').show();
+					jq('#info4').show();
+					jq('#imgSwf4').addClass('animated bounceIn');
+					jq('#info4').addClass('animated bounceIn');
+				},900);
+			}
+		})
+		/* 初始化 */
+		function init(){
+		getAuthedCourseList();	
+	    	palyVideo();
+	    	getTabData();
+	    }
+	    init();
+   });
+})(jQuery, window);
+    </script>
+    <script type="text/javascript">
+        (function(jq, g) {
+
+	var dialogTemp = '\
+		<div class="m-sp-videoplay">\
+			<div class="queItem">\
+                <div class="vv j-video"></div>\
+            </div>\
+		</div>';
+
+	var dialogui;
+	var infoClass;
+
+	// 显示视频弹窗
+	function showVideoDialog(videoSrc){
+		if(videoSrc){
+			g.videoSrc = videoSrc;
+		}
+		dialogui = jq.showSpecialDialog({
+			content:jq(dialogTemp),
+			afterShow:function(node){
+				initDialog(node);
+			},
+			afterClose:null
+		});
+	}
+
+	function initDialog(node){
+		//初始化视频
+		var vn = jq('.j-video');
+		createVideo(vn);
+	}
+	function createVideo(selector){
+		var product = (window.currentPageName == "studycms" ?"study":"mooc");
+        //创建视频
+	        if(!!g.videoSrc){
+	            var href = g.videoSrc;
+	        }
+	        if(!!selector){
+	            parent = selector;
+	        }
+	        var p = $.cloudPlayer({
+	            parent: parent,
+	            autoStart: true,
+	            product: product,
+	            resolutions:{
+	                sdfile: href
+	            },
+	            sdMp4Url:href,
+	            w: '100%',
+				h: '100%'
+	        });
+	    }
+
+	jq.showVideoDialog = showVideoDialog;
+
+})(jQuery, window);
+    </script>
+    
+</div>
+<div class="g-wrap m-foot f-pr" id="j-footer">
+<div class="g-flow f-cb">
+<div class="f1 f-fl">
+<div class="logo"></div>
+<p class="f-fc14 f-fc9">由高教社联手网易推出，让每一个有提升愿望的用户能够学到中国知名高校的课程，并获得认证。</p>
+</div>
+<div class="f4 f-fr f-pr">
+<h4 class="f-fcc">友情链接</h4>
+<div class="f-cb">
+<a href="//kada.study.163.com/?inref=index_bottomlink" target="_blank" class="f-fc9 f4a">网易卡搭</a>
+<a href="//study.163.com/" target="_blank" class="f-fc9 f4a">网易云课堂</a>
+<a href="//100.163.com/" target="_blank" class="f-fc9 f4a">网易100分</a>
+</div>
+</div>
+<div class="f3 f-fr f-pr">
+<h4 class="f-fcc">关注我们</h4>
+<div class="f-cb">
+<a class="f-icon f-fc9 u-icon-weixin weixin gzIc f-pr f-fl">
+<div class="tipQrcode f-pa">
+<div class="qrImag">
+<img src="//edu-image.nosdn.127.net/ceff46a7-e151-4a3a-b208-90e41721870c.jpg?imageView&thumbnail=860y860&quality=100" width="120px" height="120px" alt="加中M微信好友">
+</div>
+<div class="tip f-pa"></div>
+</div>
+</a>
+<a href="//weibo.com/icourse163" target="_blank" class="f-icon f-fc9 gzIc f-fs1 f-fl u-icon-weibo weibo"></a>
+</div>
+</div>
+<div class="f2 f-fr f-pr">
+<h4 class="f-fcc">关于我们</h4>
+<div class="f-cb">
+<a href="/about/aboutus.htm" target="_blank" class="f-fc9 f2a">关于我们</a>
+<a href="/spoc/schoolcloud/index.htm" target="_blank" class="f-fc9 f2a">学校云</a>
+<a href="/about/contactus.htm#/contactus?type=2" target="_blank" class="f-fc9 f2a">联系我们</a>
+<a href="/help/help.htm" target="_blank" class="f-fc9 f2a">常见问题</a>
+<a href="/about/contactus.htm#/contactus?type=4" target="_blank" class="f-fc9 f2a">意见反馈</a>
+<a href="/about/contactus.htm#/contactus?type=5" target="_blank" class="f-fc9 f2a">法律条款</a>
+</div>
+</div>
+</div>
+<div class="beian"><p class="f-fc12 f-fc6"> <a class="f-fc6" target="_blank" href="//www.miitbeian.gov.cn/state/outPortal/loginPortal.action">粤B2-20090191-26</a> | 京ICP备12020869号-2 | <a class="f-fc6" target="_blank" href="//www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010602000207">京公网安备44010602000207</a> <br>©2014-2018 icourse163.org </p></div>
+</div>
+</div>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/web/core_62fb0bbd3e1e6665ea01e0108efe49ae.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/web/pt_cms_moocCmsWithHead_9e66fcc1c802d5827cd03ae83f72ed15.js"></script>
+</body>
+</html>

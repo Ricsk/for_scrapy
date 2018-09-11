@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"><meta name="keywords" content="百度股市通,股票,证券,股票吧,贴吧,证券社区,股票推荐,智能选股,百度证券,股票,股市,炒股,炒股软件,股票软件,大盘,股票行情,股票入门,股票怎么玩,炒股入门知识,赚钱,新手炒股快速入门,财经,证券,金融,港股,行情,基金,债券,期货,外汇,保险,银行,博客,股吧,财迷,论坛,股票的行情趋势,基本面情况,机构面诊断,基本面诊断,技术面诊断"/><meta name="description" content="百度股市通,选股更轻松!百度股市通是百度出品的一款简单易用的炒股软件,通过百度股市通,你可以快速获知市场上的投资热点,了解这些热点背后的驱动事件以及与其最相关的个股;查看沪深,港股,美股个股实时行情和各市场最新排行;创建可在各终端间实时同步的自选股列表;获取基于自选股定制的资讯"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta name="baidu-site-verification" content="NWZjxlSiHd"/><meta name="referrer" content="always"/><title>页面未找到 - 百度股市通</title><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><script type="text/javascript"  data-fixed="true">var __gupiao = window.__gupiao || {};var _hmt = _hmt || [];var require = {};require.resourceMap = function(obj) {__gupiao.sourceMap = obj;}</script>
+            <link type="text/css" rel="stylesheet" href="/frontstatic/app/pc/static/css/home/home_3bd01e0.css">
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="/frontstatic/app/pc/static/js/lib/flashcanvas_dd456f6.js"></script>
+<![endif]-->
+
+    
+
+</head>
+<body >
+
+<div class="top-search wrap" data-spm="1">
+    <div class="search">
+        <div class="logo" data-spm="1">
+        <a href="/">
+            <img src="/frontstatic/app/pc/static/img/gst-logo_3edaa9f.png"/>
+        </a>
+        </div>
+        <div class="search rel">
+            <input type="text" name="q" class="search" placeholder="输入股票名称/代码/首字母" autocomplete="off">
+            <button id='search' class="blue-btn" type="submit" data-spm="2">搜 索</button>
+            <div class="search-div" style="display:none;"></div>
+        </div>
+    </div>
+    <div class="username rel right">
+                <a id="login-btn" class="login-btn text-highlight" href="https://passport.baidu.com/" data-spm="3">登录</a> |
+        <a class="register-btn" href="//passport.baidu.com/" target="_blank" data-spm="4">注册</a>
+                 |
+        <a class="gst-link text-highlight" target="_blank" href="https://gupiao.baidu.com/download/"  data-spm="5">下载股市通</a> |
+        <a  href="javascript:void(0);" class="add-favorite" data-spm="6" data-track="pc_add_favorite"><i></i>添加到收藏夹</a>
+        <div class="arrow-up app-download" style="display: none;">
+            <img src="/frontstatic/app/pc/static/img/barcode_a75bcca.png" alt="扫码下载百度股市通app">
+            <div>扫码下载百度股市通app</div>
+        </div>
+        <input type="hidden" id="stoken-status" value=""/>
+    </div>
+</div>
+
+<hr style="border-color: #1a79ff;">
+<div class="wrap">
+    <div class="error-page">
+        <div class="error-page-bg"></div>
+        <h2>404</h2>
+        <p>雾霾太大，连页面都看不见了</p>
+        <a href="/" target="_parent">去首页看看</a>
+    </div>
+</div>
+
+<div class="footer">
+    <p>股市有风险，投资需谨慎！</p>
+    <p>投资者依此做出的投资行为风险自担！</p>
+    <p>© 2018 Baidu
+        <span class="footer-notice">
+            <a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>|<a href="/help/disclaimer" target="_blank">股市通免责声明</a>|<a href="https://www.baidu.com/duty/yinsiquan.html" target="_blank">百度隐私权保护声明</a></p>
+        </span>
+</div>
+
+<div class="fixed-sidebar" data-spm="1.15">
+    <a href="/download/" class="sidebar-block appcode" target="_blank" data-spm="1" data-track="pc_appcode"><i></i><i class="pc_publiccode"></i></a>
+    <a href="javascript:void(0)" class="sidebar-block feedback" id="feedback-btn" data-spm="2" data-track="pc_feedback"></a>
+    <a href="javascript:void(0)" class="sidebar-block return-top" data-spm="3" data-track="pc_return_top"></a>
+</div>
+
+
+    
+<script type="text/javascript">(function () {function init_feedback() {if (bds && bds.qa && bds.qa.ShortCut && bds.qa.ShortCut.initRightBar) {var fb_options = {product_id: 188,issuePlaceholder: "欢迎提出您在使用过程中遇到的问题或宝贵建议（400字以内），感谢您对百度股市通的支持。"};bds.qa.ShortCut.initRightBar(fb_options);}}function loadRightBar() {if (window.bds&&window.bds.qa&&window.bds.qa.ShortCut) {init_feedback();} else {}return false;}document.getElementById("feedback-btn").onclick = loadRightBar;})();function loadScript(url, callback, opt) {var script = document.createElement("script");var opt = opt || {};script.type = "text/javascript";if (opt.charset) {script.charset = opt.charset;}if (opt.id) {script.id = opt.id;}if (script.readyState) {script.onreadystatechange = function () {if (script.readyState == "loaded" || script.readyState == "complete") {script.onreadystatechange = null;callback();}};} else {script.onload = function () {callback();};}script.src = url;document.body.appendChild(script);}</script>
+
+<script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/lib/lib_55bed3f.js"></script><script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/lib/feedback.js"></script><script type="text/javascript" charset="utf-8" src="/frontstatic/app/pc/static/js/pack/comp_23644a3.js"></script><!--[if lt IE 8]><script type="text/javascript" src="/frontstatic/app/pc/static/js/lib/json.js"></script><script type="text/javascript" src="/frontstatic/app/pc/static/js/lib/console.js"></script><![endif]--><script type="text/javascript" data-fixed="true">
+    require.async("widget/search");
+</script><script type="text/javascript">__gupiao["stockCode"] = "";</script></body>
+</html>
+
+<!--21617911800568274442040918-->
+<script> var _trace_page_logid = 2161791180; </script>

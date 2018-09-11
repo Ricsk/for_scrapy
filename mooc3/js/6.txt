@@ -1,0 +1,433 @@
+<!DOCTYPE html><html><head lang="en"><script async="" src="http://stat.mail.163.com/mailapp/a.js?key=pc%E4%B8%8B%E8%BD%BD&amp;t=1526199080000&amp;from=mail13&amp;activity=%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E5%AE%98%E7%BD%91&amp;_=1526199080000"></script><script async="" src="http://stat.mail.163.com/mailapp/a.js?key=%E6%80%BB%E4%BD%93%E8%AE%BF%E9%97%AE&amp;t=1526199079992&amp;from=mail13&amp;activity=%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E5%AE%98%E7%BD%91&amp;_=1526199079993"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>网易邮箱大师-高效强大的全平台邮箱客户端</title>
+    <meta name="Keywords" content="邮箱，大师，网易邮箱大师，邮箱大师，网易邮箱app，网易邮箱客户端，网易邮箱，邮箱客户端，企业邮箱客户端，手机邮箱，邮箱app，企业邮箱，邮箱管理，PC版邮箱，MAC版邮箱，全平台邮箱，安卓版邮箱，Android版邮箱，iPhone版邮箱，Windows版邮箱">
+    <meta name="description" content="网易邮箱大师：高效强大的全平台邮箱客户端，支持所有平台：iOS、Android、 Windows、MAC；支持一个大师账号管理你的所有邮箱客户端；支持一键添加所有邮箱：163、126、QQ邮箱、Gmail、Hotmail、新浪邮箱、所有企业邮箱和高校邮箱。凝聚网易20年专业邮箱经验打造的官方邮箱客户端，效率倍增，畅邮无间。">
+    <meta name="baidu-site-verification" content="2YXzWj9wZL">
+    <link rel="shortcut icon" href="/dashi/favicon.ico" type="image/x-icon">
+
+<script type="text/javascript">
+	(function(){
+	    var userAgent = window.navigator.userAgent;
+	    if(/windows|win32/i.test(userAgent)) {
+	        if(/Windows NT 5/.test(userAgent)) {
+	            document.writeln('<style type="text/css">' + 'body,button,input,select,textarea,code{font-family: tahoma,sans-serif;}' + '<' + '/style>');
+	        }
+	    } else if(/macintosh/i.test(userAgent)) {
+	        document.writeln('<style type="text/css">' + 'body,button,input,select,textarea,code{font-family: "Lucida Grande","Hiragino Sans GB","Hiragino Sans GB W3",verdana;}' + '<' + '/style>');
+	    }
+	})();
+</script>
+    <link rel="stylesheet" href="//mimg.127.net/hxm/dashi-home/p/20151107/style/css/common-cf95e6b044.css">
+<link rel="stylesheet" href="//mimg.127.net/hxm/dashi-home/p/20151107/style/css/index-6531a18a74.css">
+
+    <script type="text/javascript">
+        var isIE6 = false;
+    </script>
+    <!--[if IE 6]>
+    <script type="text/javascript">
+        isIE6 = true;
+    </script>
+    <![endif]-->
+
+    <script src="//mimg.127.net/hxm/dashi-home/p/20151107/js/respond-1854be559b.js"></script>
+    <script>
+        try{
+            if( navigator.userAgent.match( /android/i ) ) {
+                location.href = 'http://mail.163.com/dashi/android.html' + location.search;
+            } else if ( navigator.userAgent.match( /iphone|ipod|ipad/i) ) {
+                location.href = 'http://mail.163.com/dashi/ios.html' + location.search;
+            }
+        } catch ( e ) {}
+    </script>
+
+    <script type="text/javascript" src="//mimg.127.net/h/lib/jquery-1.8.3.min.js"></script>
+
+
+	<script src="//mimg.127.net/hxm/dashi-home/p/20151107/js/arale-qrcode-1749e8ca9e.js"></script>
+
+    <!--[if IE 6]>
+    <script src="//mimg.127.net/hxm/dashi-home/p/20151107/js/dd-0db85b4d0b.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="g-hd js-hd g-hd-log">
+    <div class="head-wrap">
+        <div class="mask-wrap"><div class="mask"></div></div>
+        <div class="wrap">
+            <div class="ltlinks"><img class="js-logo" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section1/01_logo-e55a6daec4.png" alt=""></div>
+            <ul class="menu">
+                <li><a class="menu-item menu-item-active" href="index.html" hidefocus="true">首页</a></li>
+                <li><a class="menu-item trigger-dialog " href="javascript:void(0)" hidefocus="true">下载</a></li>
+                <li><a class="menu-item " href="help.html" hidefocus="true">常见问题</a></li>
+                <li><a class="menu-item " href="http://reg.email.163.com/unireg/call.do?cmd=register.entrance&amp;from=dashigw" hidefocus="true" target="_blank">注册</a></li>
+            </ul>
+        </div>
+    </div>
+</div>    <div class="m-content js-m-content">
+        <div class="section">
+            <div class="section1 swiper-container js-section1" style="height: 166.66666666666669px;">
+                <div class="mask-top"></div>
+                <div class="swiper-wrapper">
+                    <div class="slide swiper-slide js-slide active" style="height: 166.66666666666669px;">
+                        <div class="communication">
+                            <div class="info-group js-fadeInLeft" style="opacity: 1; -webkit-transform: translate3d(0, 0, 19px);">
+                                <h1>心无旁骛，专注办公</h1>
+                                <!--三个空格-->
+                                <p>网易邮箱大师&nbsp;&nbsp;&nbsp;高效强大的全平台邮箱客户端</p>
+                            </div>
+                            <div class="btn-group js-fadeInUp js-btn-group" style="opacity: 1; -webkit-transform: translate3d(0, 0, 19px);">
+                                <a class="btn-download js-dl-pc-market" href="//u.163.com/pcds13">下载 Windows 版</a>
+                                <div class="download-mac-wrap">
+                                    <a class="btn-download download-mac1 js-dl-mac-market-style btn-download-default" href="javascript:void(0);">下载 Mac 版</a>
+                                    <a class="btn-download download-mac2 js-dl-mac-market-style js-dl-mac-market" href="//u.163.com/macds13">立即下载</a>
+                                    <a class="btn-download download-mac3 js-dl-mac-market-style js-dl-macstore-market" href="//u.163.com/macstore13" target="_blank">App Store</a>
+                                </div>
+                                <a class="btn-download btn-download-default trigger-dialog-moblie-version" href="javascript:void(0)">下载手机版</a>
+                            </div>
+                        </div>
+                        <div class="video-wrap js-video-wrap" style="height: 166.66666666666669px;">
+                            <video class="source js-video" poster="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section1/pc_bg-007a8a3c63.jpg" autoplay="autoplay" style="width: 1440px; height: 166.66666666666669px;">
+                                <source src="//mimg.127.net/hxm/dashi-home/p/20151107/style/video/pc-2ca7f31865.mp4" type="video/mp4">
+                                <source src="//mimg.127.net/hxm/dashi-home/p/20151107/style/video/pc-17c7329ff7.webm" type="video/webm">
+                                <img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section1/pc_bg1-dd6b558f98.jpg" alt="">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="slide swiper-slide js-slide" style="height: 166.66666666666669px;">
+                        <div class="communication">
+                            <div class="info-group js-fadeInLeft" style="opacity: 1; -webkit-transform: translate3d(0, 0, 19px);">
+                                <h1>随时随地，轻松办公</h1>
+                                <!--三个空格-->
+                                <p>网易邮箱大师&nbsp;&nbsp;&nbsp;高效强大的全平台邮箱客户端</p>
+                            </div>
+                            <div class="btn-group js-fadeInUp" style="opacity: 1; -webkit-transform: translate3d(0, 0, 19px);">
+                                <a class="btn-download btn-download-default js-dl-pc-market" href="//u.163.com/pcds13">下载 Windows 版</a>
+                                <div class="download-mac-wrap">
+                                    <a class="btn-download btn-download-default download-mac1 js-dl-mac-market-style" href="javascript:void(0);">下载 Mac 版</a>
+                                    <a class="btn-download btn-download-default download-mac2 js-dl-mac-market-style js-dl-mac-market" href="//u.163.com/macds13">立即下载</a>
+                                    <a class="btn-download btn-download-default download-mac3 js-dl-mac-market-style js-dl-macstore-market" href="//u.163.com/macstore13" target="_blank">App Store</a>
+                                </div>
+                                <a class="btn-download trigger-dialog-moblie-version" href="javascript:void(0)">下载手机版</a>
+                            </div>
+                        </div>
+                        <div class="video-wrap js-video-wrap" style="height: 166.66666666666669px;">
+                            <video class="source js-video" poster="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section1/phone_bg-e45408ce77.jpg" autoplay="" style="width: 1440px; height: 166.66666666666669px;">
+                                <source src="//mimg.127.net/hxm/dashi-home/p/20151107/style/video/phone-19f3423de6.mp4" type="video/mp4">
+                                <source src="//mimg.127.net/hxm/dashi-home/p/20151107/style/video/phone-786f4b1ad7.webm" type="video/webm">
+                                <img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section1/phone_bg1-b8769697a0.jpg" alt="">
+                            </video>
+                        </div>
+                    </div>
+                </div>
+                <div class="video-nav"><ul class="videos js-videos-nav"><li class="active"><div class="after"></div></li><li><div class="after"></div></li></ul></div>
+            </div>
+        </div>
+        <div class="section section-white">
+            <div class="section-same section2 js-section2">
+                <div class="summary support-mail">
+                    <h2>支持所有邮箱</h2>
+                    <p>全面支持网易、QQ、Gmail、Outlook 等主流个人邮箱，</p>
+                    <p>更有超过 1,000,000 种企业邮箱</p>
+                </div>
+                <div class="phone">
+                    <img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/08_iphone-594a8d3d45.png" alt="">
+                </div>
+                <div class="logo-wrap">
+                    <div class="animation-ele js-logo-lg">
+                        <span class="m163"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/02_163mail-f07ddd860b.png" alt=""></span>
+                        <span class="mail"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/01_Gmail-b3c67f7460.png" alt=""></span>
+                        <span class="qq"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/06_QQmail-29004b4ff6.png" alt=""></span>
+                    </div>
+                    <div class="animation-ele js-logo-sm">
+                        <span class="qiye"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/04_qiye-c2a10cb735.png" alt=""></span>
+                        <span class="m126"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/05_126mail-1cc3b5220f.png" alt=""></span>
+                        <span class="outlook"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/03_outlook-88a6269ddc.png" alt=""></span>
+                        <span class="letter"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section2/07_mailpng-5f2c8be1e0.png" alt=""></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="section-same section3 js-section3">
+                <div class="summary support-platform">
+                    <h2>支持所有平台</h2>
+                    <p>不论是手机、Windows 还是Mac，在所有设备上都能给你出色的邮件收发体验。</p>
+                </div>
+                <div class="platform-wrap">
+                    <span class="watch js-watch"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section3/01_watch-15885a03ed.png" alt="iWatch"></span>
+                    <span class="iphone js-iphone"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section3/02_iphone-e2fdf2a8ec.png" alt="iPhone"></span>
+                    <span class="ipad js-ipad"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section3/03_ipad-7d974100ff.png" alt="iPad"></span>
+                    <span class="macbook js-macbook"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section3/04_macbook-1a6431581a.png" alt="MacBook"></span>
+                </div>
+            </div>
+        </div>
+        <div class="section section-white">
+            <div class="section-same section6 js-section6">
+                <div class="summary support-multiparty">
+                    <h2>一个帐号，多端同步&nbsp;</h2>
+                    <p>使用大师帐号，多端同步信息。不同设备，一样的邮箱体验。</p>
+                </div>
+                <div class="cloud">
+                    <img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section6/01_cloud-d77f99e2dc.png" alt="">
+                </div>
+                <div class="logo-wrap">
+                    <div class="animation-ele js-logo-lg">
+                        <span class="pc"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section6/02_pc-b60e5d6f94.png" alt=""></span>
+                        <span class="imac"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section6/04_imac-9f3f27600b.png" alt=""></span>
+                        <span class="ipad"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section6/06_ipad-e4ef1016b5.png" alt=""></span>
+                    </div>
+                    <div class="animation-ele js-logo-sm">
+                        <span class="iwatch"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section6/03_iwatch-19f3294d54.png" alt=""></span>
+                        <span class="iphone"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section6/05_iphone-ea2acd3552.png" alt=""></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section section-full">
+            <div class="section-same section4 js-section4">
+                <div class="summary conversation">
+                    <h2>邮件会话，一目了然</h2>
+                    <p>同一主题的邮件合并显示，一页即可纵览往来邮件。</p>
+                </div>
+                <div class="conversation-wrap">
+                    <span class="iphone"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section4/02_iphone-13b7c1c466.png" alt=""></span>
+                    <span class="card1 js-card1"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section4/03_card1-1689928261.png" alt=""></span>
+                    <span class="card2 js-card2"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section4/04_card2-398397d107.png" alt=""></span>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <div class="section-same section5 js-section5">
+                <div class="summary schedule">
+                    <h2>日程管理，高效工作&nbsp;</h2>
+                    <p>多平台协同处理日程，你的工作安排，现在更井井有条。</p>
+                </div>
+                <div class="schedule-wrap">
+                    <span class="icon"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/01_icon-168fd5a9fc.png" alt=""></span>
+                    <div class="animation-ele js-card">
+                        <span class="card1"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/02_card-30759fee17.png" alt=""></span>
+                        <span class="card2"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/02_card-30759fee17.png" alt=""></span>
+                        <span class="card3"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/02_card-30759fee17.png" alt=""></span>
+                    </div>
+                    <div class="animation-ele js-tick">
+                        <span class="tick1"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/03_tick-d01c268b5f.png" alt=""></span>
+                        <span class="tick2"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/03_tick-d01c268b5f.png" alt=""></span>
+                        <span class="tick3"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/03_tick-d01c268b5f.png" alt=""></span>
+                    </div>
+                </div>
+                <div class="summary service">
+                    <h2>服务化邮件，智能展示</h2>
+                    <p>机票、快递、银行账单邮件卡片化呈现，</p>
+                    <p>还可以一键提醒还款、通知快递动态。</p>
+                    <p class="know-more"><a href="//developer.mail.163.com/" target="_blank">了解更多<span class="arrow"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/arrow_r-c396dd2683.png" alt="了解更多"></span></a></p>
+                </div>
+                <div class="service-wrap">
+                    <span class="people"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/section5/05_people-3f20f3e24c.png" alt=""></span>
+                </div>
+            </div>
+        </div>
+    </div>
+<div>
+    <div class="dl-wrap">
+        <div class="dl-container js-dl-container">
+            <div class="header">
+                <p>下载网易邮箱大师</p>
+            </div>
+            <div class="sendSMS-qr-block-in-download">
+<div class="sendSMS-qr-content">
+    <div class="qr">
+        <div size="134" imagesize="33" class="js-qrnode qrcode"><canvas width="134" height="134" style="width: 134px; height: 134px;"></canvas></div>
+        <p class="u-download-tip">扫一扫下载</p>
+    </div>
+    <div class="sendSMS">
+        <p class="sendSMS-text">免费发送到手机：</p>
+        <div class="input-block js-send-wrap">
+            <input class="tel-input js-ipt-phone" type="text" placeholder="请输入手机号码">
+            <input type="button" class="btn-input js-send-msg js-dl-msg" value="发送">
+            <a href="javascript:void(0)" class="btn-change-num js-change-num">更换</a>
+
+            <div class="popover right pop-send-code js-code-pop">
+                <div class="arrow"></div>
+                    <div class="popover-content js-popover-content">
+                        <p class="verify-tip js-verify-tip"></p>
+                        <div class="verify-wrap">
+                            <input type="text" placeholder="" class="verify-ipt js-ipt-verify">
+                            <img src="" alt="" class="verify-img js-verify-img">
+                        </div>
+                        <div class="verify-ctrl">
+                            <a href="javascript:void(0);" class="js-send-code btn-confirm">确定</a>
+                            <a href="javascript:void(0);" class="code-tips btn-change js-btn-change">看不清换一张</a>
+                        </div>
+                    </div>
+            </div>
+            <div class="popover right js-tool-tip tooltip">
+                <div class="arrow"></div>
+                <div class="popover-content js-popover-content">
+                    发送成功
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+            <ul class="content">
+                <li class="js-download-list moblie-version-none">
+                    <a href="//u.163.com/pcds13" hidefocus="true" class="u-download-area js-dl-pc-market">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/win-cdb1faa234.png" alt="">
+                        <p class="device">Windows 版<br><span class="a-download">立即下载</span></p>
+                    </a>
+                </li>
+                <li class="js-download-list moblie-version-none download-mac-wrap">
+                    <a href="javascript:void(0);" hidefocus="true" class="u-download-area download-mac1">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/mac-5a930697d5.png" alt="">
+                        <p class="device">Mac 版</p>
+                    </a>
+                    <a href="//u.163.com/macds13" hidefocus="true" class="u-download-area download-mac2 js-dl-mac-market">
+                        <img class="u-download-ico go-download" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/download-0516ddd48e.png" alt="">
+                        <img class="u-download-ico go-download-hover" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/download_hover-3fdca54fd6.png" alt="">
+                        <p class="device">立即下载</p>
+                    </a>
+                    <a href="//u.163.com/macstore13" target="_blank" hidefocus="true" class="u-download-area download-mac3 js-dl-macstore-market">
+                        <img class="u-download-ico go-appstore" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/app_store-afdbc30933.png" alt="">
+                        <img class="u-download-ico go-appstore-hover" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/app_store_hover-96927f5fbb.png" alt="">
+                        <p class="device">App Store</p>
+                    </a>
+                </li>
+                <li class="js-download-list">
+                    <a href="//u.163.com/iosds13" target="_blank" hidefocus="true" class="u-download-area js-dl-appstore">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/iphone-6484b2a64c.png" alt="">
+                        <p class="device">iPhone 版<br><span class="a-download">去 App Store</span></p>
+                    </a>
+                </li>
+                <li class="js-download-list">
+                    <a href="//u.163.com/androidds13" hidefocus="true" class="u-download-area js-dl-android-market">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/android-6fda3e442b.png" alt="">
+                        <p class="device">安卓版<br><span class="a-download">立即下载</span></p>
+                    </a>
+                </li>
+                <li class="js-download-list moblie-version-none">
+                    <a href="//u.163.com/iosds13" target="_blank" hidefocus="true" class="u-download-area js-dl-appstore">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/ipad-945c0b03bc.png" alt="">
+                        <p class="device">iPad 版<br><span class="a-download">去 App Store</span></p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="dialog-download">
+    <div class="dl-wrap">
+        <div class="dl-container js-dl-container">
+            <div class="header">
+                <div class="icon-close"></div>
+                <img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/downloadDial-split-aaeaaa5c5c.png" alt="">
+            </div>
+            <div class="sendSMS-qr-block-in-download">
+<div class="sendSMS-qr-content">
+    <div class="qr">
+        <div size="152" imagesize="37" class="js-qrnode qrcode"><canvas width="152" height="152" style="width: 152px; height: 152px;"></canvas></div>
+        <p class="u-download-tip">扫一扫下载</p>
+    </div>
+    <div class="sendSMS">
+        <p class="sendSMS-text">免费发送到手机：</p>
+        <div class="input-block js-send-wrap">
+            <input class="tel-input js-ipt-phone" type="text" placeholder="请输入手机号码">
+            <input type="button" class="btn-input js-send-msg js-dl-msg" value="发送">
+            <a href="javascript:void(0)" class="btn-change-num js-change-num">更换</a>
+
+            <div class="popover right pop-send-code js-code-pop">
+                <div class="arrow"></div>
+                    <div class="popover-content js-popover-content">
+                        <p class="verify-tip js-verify-tip"></p>
+                        <div class="verify-wrap">
+                            <input type="text" placeholder="" class="verify-ipt js-ipt-verify">
+                            <img src="" alt="" class="verify-img js-verify-img">
+                        </div>
+                        <div class="verify-ctrl">
+                            <a href="javascript:void(0);" class="js-send-code btn-confirm">确定</a>
+                            <a href="javascript:void(0);" class="code-tips btn-change js-btn-change">看不清换一张</a>
+                        </div>
+                    </div>
+            </div>
+            <div class="popover right js-tool-tip tooltip">
+                <div class="arrow"></div>
+                <div class="popover-content js-popover-content">
+                    发送成功
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+            <ul class="content">
+                <li class="js-download-list moblie-version-none">
+                    <a href="//u.163.com/pcds13" hidefocus="true" class="u-download-area js-dl-pc-market">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/win-cdb1faa234.png" alt="">
+                        <p class="device">Windows 版<br><span class="a-download">立即下载</span></p>
+                    </a>
+                </li>
+                <li class="js-download-list moblie-version-none download-mac-wrap">
+                    <a href="javascript:void(0);" hidefocus="true" class="u-download-area download-mac1">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/mac-5a930697d5.png" alt="">
+                        <p class="device">Mac 版</p>
+                    </a>
+                    <a href="//u.163.com/macds13" hidefocus="true" class="u-download-area download-mac2 js-dl-mac-market">
+                        <img class="u-download-ico go-download" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/download-0516ddd48e.png" alt="">
+                        <img class="u-download-ico go-download-hover" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/download_hover-3fdca54fd6.png" alt="">
+                        <p class="device">立即下载</p>
+                    </a>
+                    <a href="//u.163.com/macstore13" target="_blank" hidefocus="true" class="u-download-area download-mac3 js-dl-macstore-market">
+                        <img class="u-download-ico go-appstore" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/app_store-afdbc30933.png" alt="">
+                        <img class="u-download-ico go-appstore-hover" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/app_store_hover-96927f5fbb.png" alt="">
+                        <p class="device">App Store</p>
+                    </a>
+                </li>
+                <li class="js-download-list">
+                    <a href="//u.163.com/iosds13" target="_blank" hidefocus="true" class="u-download-area js-dl-appstore">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/iphone-6484b2a64c.png" alt="">
+                        <p class="device">iPhone 版<br><span class="a-download">去 App Store</span></p>
+                    </a>
+                </li>
+                <li class="js-download-list">
+                    <a href="//u.163.com/androidds13" hidefocus="true" class="u-download-area js-dl-android-market">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/android-6fda3e442b.png" alt="">
+                        <p class="device">安卓版<br><span class="a-download">立即下载</span></p>
+                    </a>
+                </li>
+                <li class="js-download-list moblie-version-none">
+                    <a href="//u.163.com/iosds13" target="_blank" hidefocus="true" class="u-download-area js-dl-appstore">
+                        <img class="u-download-ico" src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/ipad-945c0b03bc.png" alt="">
+                        <p class="device">iPad 版<br><span class="a-download">去 App Store</span></p>
+                    </a>
+                </li>
+            </ul>
+            <img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/downloadDial-split-aaeaaa5c5c.png" alt="">
+        </div>
+    </div>
+</div>
+<div class="m-foot">
+    <div class="foot">
+        <div class="copy">网易公司版权所有©1997-<script type="text/javascript" src="//mimg.127.net/copyright/year.js"></script>2018</div>
+        <ul class="friend-link">
+            <li><a href="http://weibo.com/p/1006065252550107/home" target="_blank">官方微博</a></li>
+            <li class="we-chat">
+                <a href="javascript:void(0)">官方微信</a>
+                <div class="code-wrap">
+                    <div class="we-code"><img src="//mimg.127.net/hxm/dashi-home/p/20151107/style/img/newHome/WechatQR-7591fe4833.png" alt="官方微信"></div>
+                    <p class="scan">扫一扫关注</p>
+                    <span class="arrow"></span>
+                </div>
+            </li>
+            <li><a href="http://help.mail.163.com/" target="_blank">客服中心</a></li>
+            <li><a href="http://mail.163.com/html/mail_intro/" target="_blank">关于网易免费邮</a></li>
+        </ul>
+    </div>
+</div>    <script src="//mimg.127.net/hxm/dashi-home/p/20151107/js/common-f24c301278.js"></script>
+<script src="//mimg.127.net/hxm/dashi-home/p/20151107/js/index-1a3f0dac87.js"></script>
+
+
+</body></html>
